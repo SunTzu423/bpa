@@ -39,22 +39,16 @@ function ContactUS() {
                   <li>
                     <p className="sub_title">Call us</p>
                     <div className="cnt_block">
-                      <Link to="tel:+11234567890">+1 123 456 7890</Link>
+                      <Link to="tel:+11234567890">+1 614-525-1000</Link>
                       <span>
                         <i className="icofont-ui-call" />
-                      </span>
-                    </div>
-                    <div className="cnt_block">
-                      <Link to="tel:+10987654321">+1 098 765 4321</Link>
-                      <span>
-                        <i className="icofont-whatsapp" />
                       </span>
                     </div>
                   </li>
                   <li>
                     <p className="sub_title">Email us</p>
                     <div className="cnt_block">
-                      <Link to="mailto:">hello@gmail.com</Link>
+                      <Link to="mailto:">gamedaygrillbpa@gmail.com</Link>
                       <span>
                         <i className="icofont-envelope-open" />
                       </span>
@@ -63,7 +57,7 @@ function ContactUS() {
                   <li>
                     <p className="sub_title">Find us</p>
                     <div className="cnt_block">
-                      <p>Restaurant St, Delicious City, London 9578, UK</p>
+                      <p>308 Negra Arroyo Lane, Albuquerque, NM</p>
                       <span>
                         <i className="icofont-location-pin" />
                       </span>
@@ -94,7 +88,7 @@ function ContactUS() {
             </div>
           </div>
           <div className="map" data-aos="fade-up" data-aos-duration={1500}>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387191.03612512146!2d-74.30933714401378!3d40.6975399537724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1685309226223!5m2!1sen!2sin"
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d204.2303332693158!2d-106.68636432006019!3d35.01458129448599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87220d0a121604ed%3A0xc185463b0a72dca6!2sLos%20Pollos%20Hermanos!5e0!3m2!1sen!2sus!4v1697476159384!5m2!1sen!2sus"
               height={450} style={{ border: 0 }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
           </div>
         </div>
