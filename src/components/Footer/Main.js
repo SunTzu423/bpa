@@ -13,8 +13,8 @@ function Main() {
             <div className="row py_50">
               <div className="col-md-7 direction_block">
                 <p>
-                  Restaurant St, Delicious City, <br />
-                  London 9578, UK <br />
+                  308 Negra Arroyo Lane, <br />
+                  Albuquerque, NM <br />
                   Booking : <Link to="tel:+88-123-123456">+88-123-123456</Link>
                 </p>
                 <Link to="/contact" className="btn_text">
@@ -23,8 +23,8 @@ function Main() {
               </div>
               <div className="col-md-5 text-md-right timing_block">
                 <p>
-                  Monday - Friday : 8AM - 9PM <br />
-                  Saturday - Sunday : 8AM - 11PM
+                  Monday - Friday : 11AM - 10PM <br />
+                  Saturday - Sunday : 10AM - 11PM
                 </p>
                 <Link to="#" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(true)}>
                   book a table
@@ -37,7 +37,7 @@ function Main() {
               <div className="col-md-7 offer_block">
                 <h2>Get News &amp; Offers</h2>
                 <p>
-                  Subscribe us &amp; Get <span>25% Off.</span>
+                  Subscribe us &amp; Get <span>15% Off.</span>
                 </p>
                 <form>
                   <div className="form-group">
@@ -51,9 +51,6 @@ function Main() {
               </div>
               <div className="col-md-5">
                 <ul className="social_media">
-                  <li>
-                    <a href="https://www.facebook.com/" target='_blank'>Facebook</a>
-                  </li>
                   <li>
                     <a href="https://www.instagram.com/" target='_blank'>Instagram</a>
                   </li>
