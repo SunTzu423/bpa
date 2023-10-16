@@ -91,7 +91,7 @@ function BlogDetail() {
             </div>
             <div className="main_img" data-aos="fade-up" data-aos-duration={1500} >
               <iframe style={{ width: "100%", height: 500 }}
-                src="https://www.youtube.com/embed/tgbNymZ7vqY"
+                src="https://www.youtube.com/embed/ShLTFPXFMSc?si=AolFkF8mx8bysmEI"
                 title="YouTube video player"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowFullScreen="" />
