@@ -18,7 +18,7 @@ function VideoTwo() {
         dishes: 0,
     };
     const finalCounts = {
-        customers: 8900,
+        customers: 2,
         chefs: 25,
         dishes: 125,
     };
@@ -108,7 +108,7 @@ function VideoTwo() {
                                 <img src={SmillyImg} alt="img" />
                             </div>
                             <p className="count_text">
-                                <span className="counter-value" data-count={8900}>
+                                <span className="counter-value" data-count={1}>
                                     {counts.customers}
                                 </span>
                                 <span>+</span>

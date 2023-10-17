@@ -173,7 +173,7 @@ function Main() {
               <li>
                 <p className="sub_title">Email us</p>
                 <div className="cnt_block">
-                  <Link to="mailto:">gamedaygrillbpa@gmail.com</Link>
+                  <a href="mailto:gamedaygrillbpa@gmail.com">gamedaygrillbpa@gmail.com</a>
                   <span>
                     <i className="icofont-envelope-open" />
                   </span>
@@ -189,7 +189,7 @@ function Main() {
                 </div>
               </li>
             </ul>
-            <Link to="#" className="btn btn_primary">
+            <Link to="mailto:gamedaygrillbpa@gmail.com" className="btn btn_primary">
               book a table
             </Link>
             <figure className="tab_img">
