@@ -107,17 +107,9 @@ function Main() {
                   <div className="sub_menu">
                     <ul>
                       <li>
-                        <Link to="/bloglist">Blog List </Link>
+                        <Link to="/reservation1">reservation</Link>
                       </li>
-                      <li>
-                        <Link to="/blogdetail">Blog Details</Link>
-                      </li>
-                      <li>
-                        <Link to="/reservation1">reservation 1</Link>
-                      </li>
-                      <li>
-                        <Link to="/reservation2">reservation 2</Link>
-                      </li>
+
                       <li>
                         <Link to="/review">reviews</Link>
                       </li>
@@ -134,7 +126,7 @@ function Main() {
                 </li>
                 <li className="nav-item contact_number">
                   <Link className="nav-link" to="tel:+18001234578">
-                    <span>book a table :</span> +1 800 123 45 78
+                    <span>book a table :</span> +1 614-525-1000
                   </Link>
                 </li>
                 <li className="d-lg-none">
@@ -172,22 +164,16 @@ function Main() {
               <li>
                 <p className="sub_title">Call us</p>
                 <div className="cnt_block">
-                  <Link to="tel:+11234567890">+1 123 456 7890</Link>
+                  <Link to="tel:+11234567890">+1 614-525-1000</Link>
                   <span>
                     <i className="icofont-ui-call" />
-                  </span>
-                </div>
-                <div className="cnt_block">
-                  <Link to="tel:+10987654321">+1 098 765 4321</Link>
-                  <span>
-                    <i className="icofont-whatsapp" />
                   </span>
                 </div>
               </li>
               <li>
                 <p className="sub_title">Email us</p>
                 <div className="cnt_block">
-                  <Link to="mailto:">hello@gmail.com</Link>
+                  <Link to="mailto:">gamedaygrillbpa@gmail.com</Link>
                   <span>
                     <i className="icofont-envelope-open" />
                   </span>
@@ -196,7 +182,7 @@ function Main() {
               <li>
                 <p className="sub_title">Find us</p>
                 <div className="cnt_block">
-                  <p>Restaurant St, Delicious City, London 9578, UK</p>
+                  <p>308 Negra Arroyo Lane, Albuquerque, NM</p>
                   <span>
                     <i className="icofont-location-pin" />
                   </span>
