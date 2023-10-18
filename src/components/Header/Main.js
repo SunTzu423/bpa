@@ -45,47 +45,15 @@ function Main() {
             </button>
             <div className={`collapse navbar-collapse ${menuOpen ? 'show' : ''}`} id="navbarSupportedContent">
               <ul className="navbar-nav ml-auto">
-                <li className="nav-item has_dropdown">
-                  <Link className="nav-link" to="#" onClick={handleMenuItemClick}>
+                <li className="nav-item">
+                  <Link className="nav-link" to="/home2" onClick={handleMenuItemClick}>
                     Home
                   </Link>
-                  <span className="drp_btn">
-                    <i className="icofont-rounded-down" />
-                  </span>
-                  <div className={`sub_menu ${isDropdownOpen ? 'open' : ''}`}>
-                    <ul style={{ display: "block" }}>
-                      <li>
-                        <Link to="/">Home Defoult</Link>
-                      </li>
-                      <li>
-                        <Link to="/home2">Home Slider Hero</Link>
-                      </li>
-                      <li>
-                        <Link to="/home3">Home Dish List</Link>
-                      </li>
-                    </ul>
-                  </div>
                 </li>
-                <li className="nav-item has_dropdown">
-                  <Link className="nav-link" to="#" onClick={handleMenuItemClick}>
+                <li className="nav-item">
+                  <Link className="nav-link" to="/menulist3" onClick={handleMenuItemClick}>
                     MENU
                   </Link>
-                  <span className="drp_btn">
-                    <i className="icofont-rounded-down" />
-                  </span>
-                  <div className="sub_menu">
-                    <ul>
-                      <li>
-                        <Link to="/menulist1">Menu List 1</Link>
-                      </li>
-                      <li>
-                        <Link to="/menulist2">Menu List 2</Link>
-                      </li>
-                      <li>
-                        <Link to="/menulist3">Menu List 3</Link>
-                      </li>
-                    </ul>
-                  </div>
                 </li>
                 <li className="nav-item">
                   <Link className="nav-link" to="/about" onClick={handleMenuItemClick}>

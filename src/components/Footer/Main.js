@@ -15,7 +15,7 @@ function Main() {
                 <p>
                   308 Negra Arroyo Lane, <br />
                   Albuquerque, NM <br />
-                  Booking : <Link to="tel:+88-123-123456">+88-123-123456</Link>
+                  Booking : <Link to="tel:+88-123-123456">614-525-1000</Link>
                 </p>
                 <Link to="/contact" className="btn_text">
                   get direction <i className="icofont-long-arrow-right" />
@@ -52,9 +52,6 @@ function Main() {
               <div className="col-md-5">
                 <ul className="social_media">
                   <li>
-                    <a href="https://www.instagram.com/" target='_blank'>Instagram</a>
-                  </li>
-                  <li>
                     <a href="https://twitter.com/" target='_blank'>Twitter</a>
                   </li>
                   <li>
@@ -69,25 +66,18 @@ function Main() {
               <div className="col-md-12">
                 <ul className="links d-flex justify-content-center">
                   <li>
-                    <Link to="/">Home</Link>
+                    <Link to="/home2">Home</Link>
                   </li>
+
                   <li>
-                    <Link to="/menulist1">Menu 1</Link>
+                    <Link to="/menulist3">Menu </Link>
                   </li>
-                  <li>
-                    <Link to="/menulist2">Menu 2</Link>
-                  </li>
-                  <li>
-                    <Link to="/menulist3">Menu 3</Link>
-                  </li>
+
                   <li>
                     <Link to="/about">About us</Link>
                   </li>
                   <li>
                     <Link to="/ourchef">Our chefs</Link>
-                  </li>
-                  <li>
-                    <Link to="/bloglist">Blog</Link>
                   </li>
                   <li>
                     <Link to="/contact">Contact</Link>
@@ -99,10 +89,7 @@ function Main() {
           <div className="row">
             <div className="col-md-12 copy_right text-center">
               <p>
-                © 2023 Restaurant. All Rights Reserved | Crafted by{" "}
-                <Link to="https://themeforest.net/user/kalanidhithemes" target="blog-list" >
-                  Kalanidhi Themes
-                </Link>
+                © 2023 Game Day Grill. All Rights Reserved 
               </p>
             </div>
           </div>
@@ -125,7 +112,7 @@ function Main() {
                 </button>
                 <h2 className="mb-2">Online Reservation</h2>
                 <p>
-                  Booking request <a href="tel:+88123123456">+88-123-123456</a> or fill
+                  Booking request <a href="tel:+88123123456">614-525-1000</a> or fill
                   out the order form
                 </p>
               </div>
