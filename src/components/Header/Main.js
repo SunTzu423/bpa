@@ -33,7 +33,7 @@ function Main() {
       <header className={`fixed ${menuOpen ? 'menu-open' : ''}`}>
         <div className="container-fluid">
           <nav className="navbar navbar-expand-lg">
-            <Link className="navbar-brand" to="/">
+            <Link className="navbar-brand" to="/home2">
               <img src={logo} alt="image" />
             </Link>
             <button className={`navbar-toggler ${menuOpen ? 'open' : ''}`} type="button" onClick={toggleMenu}>
