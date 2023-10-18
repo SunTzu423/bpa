@@ -102,7 +102,7 @@ function Dishlist2() {
                                         </div>
                                     </li>
                                 </ul>
-                                <Link to="/reservation1" className="btn btn_primary">
+                                <Link to="/reservation2" className="btn btn_primary">
                                     book a table
                                 </Link>
                             </div>

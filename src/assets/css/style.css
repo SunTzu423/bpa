@@ -272,7 +272,21 @@ h3 {
   margin-bottom: 20px;
   display: block;
 }
-
+    .sub_text 
+        {
+        color:#88BBCC;
+        background-color:rgba(0, 0, 0, 0.3);
+        }
+     h1 {
+        color:#88BBCC;
+        background-color:rgba(0, 0, 0, 0.3);
+        }
+     .lead 
+        {
+        font-weight: bold;
+        color:#88BBCC;
+        background-color:rgba(0, 0, 0, 0.5);
+        }
 .section_title .sub_text {
   font-family: var(--font-playball);
   font-size: 30px;

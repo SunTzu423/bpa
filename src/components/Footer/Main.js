@@ -26,7 +26,7 @@ function Main() {
                   Monday - Friday : 11AM - 10PM <br />
                   Saturday - Sunday : 10AM - 11PM
                 </p>
-                <Link to="#" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(true)}>
+                <Link to="mailto:gamedaygrillbpa@gmail.com" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(true)}>
                   book a table
                 </Link>
               </div>

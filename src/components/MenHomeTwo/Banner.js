@@ -1,26 +1,6 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
-import Slider from 'react-slick';
-import BG1 from '../../assets/images/banner_slide01.png'
-import BG2 from '../../assets/images/banner_slide02.png'
-import BG3 from '../../assets/images/banner_slide03.png'
-
-const Bannerslider = {
-    responsive: [
-        {
-            breakpoint: 600,
-            settings: {
-                slidesToShow: 3,
-            },
-        },
-        {
-            breakpoint: 1000,
-            settings: {
-                slidesToShow: 4,
-            },
-        },
-    ],
-}
+import { Link } from 'react-router-dom';
+import BG1 from '../../assets/images/banner.png'
 
 function Banner() {
     return (
@@ -53,7 +33,6 @@ function Banner() {
                     </ul>
                 </div>
                 <div className="banner_slider" data-aos="fade-up" data-aos-duration={3000} data-aos-offset={0} >
-                    <Slider className="" id="banner_slider" {...Bannerslider} arrows={false} slidesToShow={1} autoplay={true} autoplaySpeed={5000}>
                         <div className="item">
                             <div className="slider_block" style={{ backgroundImage: `url(${BG1})` }} >
                                 <div className="ban_text ">
@@ -70,41 +49,7 @@ function Banner() {
                                 </div>
                             </div>
                         </div>
-                        <div className="item">
-                            <div className="slider_block" style={{ backgroundImage: `url(${BG2})` }} >
-                                <div className="ban_text ">
-                                    <div className="inner_text">
-                                        <span className="sub_text">Welcome to the restaurant</span>
-                                        <h1>Best taste of Steak &amp; BBQ</h1>
-                                        <p className="lead">
-                                            A restaurant with Timeless &amp; Traditional taste.{" "}
-                                        </p>
-                                        <Link href="/menulist2" className="btn btn_primary">
-                                            view our full menu
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="item">
-                            <div className="slider_block" style={{ backgroundImage: `url(${BG3})` }} >
-                                <div className="ban_text">
-                                    <div className="inner_text">
-                                        <span className="sub_text">Welcome to the restaurant</span>
-                                        <h1>Timeless &amp; Traditional taste</h1>
-                                        <p className="lead">
-                                            Authentic Tastes &amp; Authentic Atmosphere, Change your life
-                                            with our steaks.{" "}
-                                        </p>
-                                        <Link href="/MenuList1" className="btn btn_primary">
-                                            view our full menu
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </Slider>
-                </div>
+                    </div>
             </section>
         </>
     )
