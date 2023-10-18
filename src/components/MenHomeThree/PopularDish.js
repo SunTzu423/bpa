@@ -31,8 +31,25 @@ function PopularDish() {
         </div>
         <div className="container">
           <div className="section_title text-center" data-aos="fade-up" data-aos-duration={1500} >
+
+         {/* .sub_text  
+        {
+        color:#88BBCC;
+        background-color:rgba(0, 0, 0, 0.3);
+        }
+     h1 {
+        color:#88BBCC;
+        background-color:rgba(0, 0, 0, 0.3);
+        }
+     .lead 
+        {
+        font-weight: bold;
+        color:#88BBCC;
+        background-color:rgba(0, 0, 0, 0.5);
+        }*/}
+
             <span className="sub_text">Welcome to Flavoury</span>
-            <h1>Steak &amp; BBQ restaurant</h1>
+            <h1 className="plsWork">Steak &amp; BBQ restaurant</h1>
             <p>We Only Serve Real Steaks, The steak you will always remember.</p>
           </div>
           <div id="popular_dish" className="dishList_slider" data-aos="fade-in" data-aos-duration={1500} >

@@ -273,6 +273,8 @@ h3 {
   display: block;
 }
 
+
+
 .section_title .sub_text {
   font-family: var(--font-playball);
   font-size: 30px;
@@ -3646,20 +3648,25 @@ iframe#youtubevideo {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 80%;
+  color:#88BBCC;
+  
 }
 
 .banner_slider .slider_block .ban_text .sub_text {
   font-size: 40px;
   font-family: var(--font-playball);
+  color:#88BBCC;
 }
 
 .banner_slider .slider_block .ban_text h1 {
   font-size: 100px;
   line-height: 1;
+  color:#88BBCC;
 }
 
 .banner_slider .slider_block .ban_text .btn {
   margin-top: 10px;
+  color:#88BBCC;
 }
 
 .banner_slider .owl-nav {
@@ -4529,7 +4536,7 @@ iframe#youtubevideo {
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   animation-name: fadeInUp;
-  animation-delay: 0.5s;
+  animation-delay: 0.5s;  
 }
 
 .Slider-track{
