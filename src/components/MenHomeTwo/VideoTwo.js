@@ -75,7 +75,7 @@ function VideoTwo() {
                                 </span>
                                 <div className="text">
                                     <h3>Locate Us</h3>
-                                    <p>Delicious City, London 9578, UK</p>
+                                    <p>308 Negra Arroyo Lane, Albuquerque, NM</p>
                                 </div>
                             </li>
                             <li>
@@ -84,7 +84,7 @@ function VideoTwo() {
                                 </span>
                                 <div className="text">
                                     <h3>Open Hours</h3>
-                                    <p>Mon To Fri 9:00 AM - 9:00 PM</p>
+                                    <p>Mon To Fri 11:00 AM - :00 PM</p>
                                 </div>
                             </li>
                             <li>
@@ -94,7 +94,7 @@ function VideoTwo() {
                                 <div className="text">
                                     <h3>Reservation</h3>
                                     <p>
-                                        <Link to="mail:reservation@gmail.com">reservation@gmail.com</Link>
+                                        <Link to="mail:reservation@gmail.com">gamedaygrillbpa@gmail.com</Link>
                                     </p>
                                 </div>
                             </li>
@@ -108,7 +108,7 @@ function VideoTwo() {
                                 <img src={SmillyImg} alt="img" />
                             </div>
                             <p className="count_text">
-                                <span className="counter-value" data-count={1}>
+                                <span className="counter-value" data-count={900}>
                                     {counts.customers}
                                 </span>
                                 <span>+</span>
