@@ -18,7 +18,7 @@ function VideoTwo() {
         dishes: 0,
     };
     const finalCounts = {
-        customers: 2,
+        customers: 900,
         chefs: 25,
         dishes: 125,
     };
@@ -84,7 +84,7 @@ function VideoTwo() {
                                 </span>
                                 <div className="text">
                                     <h3>Open Hours</h3>
-                                    <p>Mon To Fri 11:00 AM - :00 PM</p>
+                                    <p>Mon To Fri 11:00 AM - 10:00 PM</p>
                                 </div>
                             </li>
                             <li>
