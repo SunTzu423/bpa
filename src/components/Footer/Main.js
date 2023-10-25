@@ -52,10 +52,10 @@ function Main() {
               <div className="col-md-5">
                 <ul className="social_media">
                   <li>
-                    <a href="https://twitter.com/" target='_blank'>Twitter</a>
+                    <a href="https://twitter.com/CordenRoge61866" target='_blank'>Twitter</a>
                   </li>
                   <li>
-                    <a href="https://www.youtube.com/" target='_blank'>Youtube</a>
+                    <a href="https://www.youtube.com/channel/UCboic6ngDvgZPiySSZhdruQ" target='_blank'>Youtube</a>
                   </li>
                 </ul>
               </div>
