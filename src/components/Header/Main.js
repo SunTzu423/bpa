@@ -33,7 +33,7 @@ function Main() {
       <header className={`fixed ${menuOpen ? 'menu-open' : ''}`}>
         <div className="container-fluid">
           <nav className="navbar navbar-expand-lg">
-            <Link className="navbar-brand" to="/home2">
+            <Link className="navbar-brand" to="/">
               <img src={logo} alt="image" />
             </Link>
             <button className={`navbar-toggler ${menuOpen ? 'open' : ''}`} type="button" onClick={toggleMenu}>
@@ -46,7 +46,7 @@ function Main() {
             <div className={`collapse navbar-collapse ${menuOpen ? 'show' : ''}`} id="navbarSupportedContent">
               <ul className="navbar-nav ml-auto">
                 <li className="nav-item">
-                  <Link className="nav-link" to="/home2" onClick={handleMenuItemClick}>
+                  <Link className="nav-link" to="/" onClick={handleMenuItemClick}>
                     Home
                   </Link>
                 </li>
