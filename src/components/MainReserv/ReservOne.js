@@ -16,14 +16,14 @@ function ReservOne() {
               <img src={Img02} alt="img" />
             </span>
             <span className="sub_text">Online reservation</span>
-            <h2>Flavoury Restaurant, Delicious City, London 9578, UK</h2>
+            <h2>Game Day Grill, Albuquerque, New Mexico, USA</h2>
           </div>
           <div className="form_inner" data-aos="fade-in" data-aos-duration={1500} data-aos-delay={150} >
             <div className="formBlock">
               <div className="text-center">
-                <h2 className="mb-2">Book your delicious table now</h2>
+                <h2 className="mb-2">Book your  table now</h2>
                 <p>
-                  Booking request <Link to="tel:+88123123456">+88-123-123456</Link> or
+                  Booking request <Link to="tel:614-525-1000">614-525-1000</Link> or
                   fill out the order form
                 </p>
               </div>
@@ -78,28 +78,27 @@ function ReservOne() {
               <h2>Contact Us</h2>
               <div className="booking">
                 <h3>Booking request</h3>
-                <Link to="tel:+88-123-123456">+88-123-123456</Link>
+                <Link to="tel:614-525-1000">614-525-1000</Link>
               </div>
               <ul>
                 <li>
                   <h3>Location</h3>
                   <p>
-                    Restaurant St, Delicious City, <br />
-                    London 9578, UK
+                  308 Negra Arroyo Lane, Albuquerque, NM
                   </p>
                 </li>
                 <li>
                   <h3>Lunch Time</h3>
                   <p>
                     Monday to Sunday <br />
-                    11.00 am - 2.30pm
+                    11.00 am - 3.30pm
                   </p>
                 </li>
                 <li>
                   <h3>Dinner Time</h3>
                   <p>
                     Monday to Sunday <br />
-                    5.30 pm - 11.30 pm
+                    5.30 pm - 10 pm
                   </p>
                 </li>
               </ul>
