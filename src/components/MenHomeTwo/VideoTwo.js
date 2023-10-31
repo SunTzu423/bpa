@@ -18,8 +18,8 @@ function VideoTwo() {
         dishes: 0,
     };
     const finalCounts = {
-        customers: 900,
-        chefs: 25,
+        customers: 4000,
+        chefs: 1,
         dishes: 125,
     };
 
@@ -166,7 +166,7 @@ function VideoTwo() {
                                         width={640}
                                         height={360}
                                         allowFullScreen=""
-                                        src="https://www.youtube.com/embed/NC9KlaxtfLg?autoplay=1&mute=1" />
+                                        src="https://www.youtube.com/embed/ShLTFPXFMSc?si=sgfopC6bl30SDz6l" />
                                 </div>
                             </div>
                             <div className="modal-footer"></div>
