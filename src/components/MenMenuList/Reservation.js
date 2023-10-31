@@ -11,7 +11,7 @@ function Reservation() {
               <div className="text-center">
                 <h2 className="mb-2">Online Reservation</h2>
                 <p>
-                  Booking request <Link to="tel:+88123123456">+88-123-123456</Link> or
+                  Booking request <Link to="tel:+88123123456">614-525-1000</Link> or
                   fill out the order form
                 </p>
               </div>
@@ -66,14 +66,14 @@ function Reservation() {
               <h2>Contact Us</h2>
               <div className="booking">
                 <h3>Booking request</h3>
-                <Link to="tel:+88-123-123456">+88-123-123456</Link>
+                <Link to="tel:+88-123-123456">+614-525-1000</Link>
               </div>
               <ul>
                 <li>
                   <h3>Location</h3>
                   <p>
-                    Restaurant St, Delicious City, <br />
-                    London 9578, UK
+                  308 Negra Arroyo Lane<br />
+                   Albuquerque, NM 
                   </p>
                 </li>
                 <li>
