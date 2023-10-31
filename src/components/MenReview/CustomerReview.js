@@ -23,9 +23,9 @@ const reviewData = [
   },
   {
     image: Review04,
-    starCount: 5,
-    text: "The ambiance is realy very welcoming and charming. Amazing food, wines and services. Went to kuro for Sunday lunch. Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took.",
-    name: "Marry Christina",
+    starCount: 5E+0,
+    text: "When I first took my family to Game Day Grill, we ordered eggs and rice for the kids. Well, let me tell you, it was the best meal I ever had. The eggs and rice were incredibly delicious. It was like we were dining on a completely different planet. The eggs were perfectly cooked, fluffy, and bursting with flavor. The rice was moist and well-seasoned, which was a pleasant surprise. The kids and I couldn't get enough of it. The service was amazing as well. The staff was attentive, friendly, and made sure we had everything we needed. They greeted us nicely and truly went above and beyond to make our visit enjoyable. We left the restaurant with full bellies, smiles on our faces, and a newfound appreciation for Game Day Grill. I'm giving them a well-deserved 5-star review for making our dining experience exceptional.",
+    name: "Miles Janow",
   },
   {
     image: Review05,
