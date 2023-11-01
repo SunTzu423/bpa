@@ -17,7 +17,7 @@ const reviewData = [
   },
   {
     image: Review01,
-    starCount: 3,
+    starCount: 5,
     text: "It made me stop my One Piece addiction. I picked it back up afterwards, but it was a good distraction. ",
     name: "Kameron Carter",
   },

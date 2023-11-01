@@ -58,12 +58,11 @@ function Testimonial() {
                                             </span>
                                         </div>
                                         <h2>
-                                            It's a great experience. The ambiance is realy very
-                                            welcoming and charming. Amazing food, wines and services.
+                                        Game Day Grill made the tastiest eggs and rice ever, like a party in my mouth. The nice staff made us happy, and we left really full with big smiles, giving them 5 stars for being so great.
                                         </h2>
                                         <h3>
-                                            Marry Christina,{" "}
-                                            <span className="designation">via trip advisor</span>
+                                            Miles Janow,{" "}
+                                            <span className="designation">via Carrier Pigeon</span>
                                         </h3>
                                         <span className="quote text-right d-block">”</span>
                                     </div>
@@ -94,13 +93,11 @@ function Testimonial() {
                                             </span>
                                         </div>
                                         <h2>
-                                            Amazing food, wines and services very welcoming and
-                                            charming. Amazing food, wines and services It's a great
-                                            experience.
+It made me stop my One Piece addiction. I picked it back up afterwards, but it was a good distraction.
                                         </h2>
                                         <h3>
-                                            Marry Christina,{" "}
-                                            <span className="designation">via trip advisor</span>
+                                            Kameron Carter,{" "}
+                                            <span className="designation">via Trip Advisor</span>
                                         </h3>
                                         <span className="quote text-right d-block">”</span>
                                     </div>
@@ -129,15 +126,79 @@ function Testimonial() {
                                             <span>
                                                 <i className="icofont-star" />
                                             </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
+                                            <span>
+                                                <i className="icofont-star" />
+                                            </span>
                                         </div>
                                         <h2>
-                                            Amazing ambience, great food, very courteous staff.
-                                            Overall very good experience. Best place to have real
-                                            steak food.
+                                           Howdy! Game Day Grill's website deserves a big 5 stars. It's easy to use, the menu looks tasty, and ordering online is super quick. Y'all gotta visit for some great eats!
                                         </h2>
                                         <h3>
-                                            Willium Joe{" "}
-                                            <span className="designation">via trip advisor</span>
+                                            Levi Benjamin Scott Stover {" "}
+                                            <span className="designation">via Voicemail</span>
                                         </h3>
                                         <span className="quote text-right d-block">”</span>
                                     </div>
