@@ -3,7 +3,6 @@ import Header from '../Header/Main'
 import Footer from '../Footer/Main'
 import MenuList3Bred from '../BredCrumb/MenuList3Bred'
 import MenuSection3 from '../MenMenuList/MenuSection3'
-import Reservation from '../MenMenuList/Reservation'
 import Aos from 'aos'
 
 function Main() {
@@ -19,7 +18,6 @@ function Main() {
       <Header />
       <MenuList3Bred />
       <MenuSection3/>
-      <Reservation/>
       <Footer />
     </div>
   )

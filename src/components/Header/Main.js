@@ -61,31 +61,19 @@ function Main() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/ourchef" onClick={handleMenuItemClick}>
-                    OUR CHEFS
+                  <Link className="nav-link" to="/reservation1" onClick={handleMenuItemClick}>
+                    reservation
                   </Link>
                 </li>
-                <li className="nav-item has_dropdown">
-                  <Link className="nav-link" to="#" onClick={handleMenuItemClick}>
-                    Pages
+                <li className="nav-item">
+                  <Link className="nav-link" to="/review" onClick={handleMenuItemClick}>
+                    reviews
                   </Link>
-                  <span className="drp_btn">
-                    <i className="icofont-rounded-down" />
-                  </span>
-                  <div className="sub_menu">
-                    <ul>
-                      <li>
-                        <Link to="/reservation1">reservation</Link>
-                      </li>
-
-                      <li>
-                        <Link to="/review">reviews</Link>
-                      </li>
-                      <li>
-                        <Link to="/gallery">gallery</Link>
-                      </li>
-                    </ul>
-                  </div>
+                </li>
+                <li className="nav-item">
+                  <Link className="nav-link" to="/gallery" onClick={handleMenuItemClick}>
+                    gallery
+                  </Link>
                 </li>
                 <li className="nav-item">
                   <Link className="nav-link" to="/contact" onClick={handleMenuItemClick}>
@@ -157,7 +145,7 @@ function Main() {
                 </div>
               </li>
             </ul>
-            <Link to="mailto:gamedaygrillbpa@gmail.com" className="btn btn_primary">
+            <Link to="/reservation1" className="btn btn_primary">
               book a table
             </Link>
             <figure className="tab_img">

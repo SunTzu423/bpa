@@ -146,11 +146,6 @@ function MenuSection3() {
                       </div>
                     </div>
                   </div>
-                  <div className="text-center">
-                    <Link to="#" className="btn btn_primary">
-                      view full menu
-                    </Link>
-                  </div>
                 </div>
               </div>
 
@@ -261,11 +256,6 @@ function MenuSection3() {
                         </div>
                       </div>
                     </div>
-                  </div>
-                  <div className="text-center">
-                    <Link to="#" className="btn btn_primary">
-                      view full menu
-                    </Link>
                   </div>
                 </div>
               </div>
@@ -378,11 +368,7 @@ function MenuSection3() {
                       </div>
                     </div>
                   </div>
-                  <div className="text-center">
-                    <Link to="#" className="btn btn_primary">
-                      view full menu
-                    </Link>
-                  </div>
+                
                 </div>
               </div>
           
@@ -494,11 +480,7 @@ function MenuSection3() {
                       </div>
                     </div>
                   </div>
-                  <div className="text-center">
-                    <Link to="#" className="btn btn_primary">
-                      view full menu
-                    </Link>
-                  </div>
+
                 </div>
               </div>
           
