@@ -113,7 +113,7 @@ function Main() {
             <i className="icofont-close-circled" />
           </span>
           <div className="menu_inner_content">
-            <Link to="#" className="side_logo">
+            <Link to="/" className="side_logo">
               <img src={logo} alt="image" />
             </Link>
             <ul className="contact_listing">

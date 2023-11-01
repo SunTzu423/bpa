@@ -18,13 +18,13 @@ function Main() {
                   Booking : <Link to="tel:+88-123-123456">614-525-1000</Link>
                 </p>
                 <Link to="/contact" className="btn_text">
-                  get direction <i className="icofont-long-arrow-right" />
+                  get directions <i className="icofont-long-arrow-right" />
                 </Link>
               </div>
               <div className="col-md-5 text-md-right timing_block">
                 <p>
                   Monday - Friday : 11AM - 10PM <br />
-                  Saturday - Sunday : 10AM - 11PM
+                  Saturday - Sunday : 10AM - 11PM<br></br>
                 </p>
                 <Link to="/reservation1" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(false)}>
                   book a table
@@ -32,35 +32,7 @@ function Main() {
               </div>
             </div>
           </div>
-          <div className="foote_widget newsletter_block">
-            <div className="row py_50">
-              <div className="col-md-7 offer_block">
-                <h2>Get News &amp; Offers</h2>
-                <p>
-                  Subscribe us &amp; Get <span>15% Off.</span>
-                </p>
-                <form>
-                  <div className="form-group">
-                    <span className="icon position-absolute">
-                      <i className="icofont-envelope-open" />
-                    </span>
-                    <input type="text" placeholder="Your email" className="form-control" required="" />
-                    <button className="btn btn_primary">subscribe now</button>
-                  </div>
-                </form>
-              </div>
-              <div className="col-md-5">
-                <ul className="social_media">
-                  <li>
-                    <a href="https://twitter.com/CordenRoge61866" target='_blank'>Twitter</a>
-                  </li>
-                  <li>
-                    <a href="https://www.youtube.com/channel/UCboic6ngDvgZPiySSZhdruQ" target='_blank'>Youtube</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          
           <div className="foote_widget menu_links">
             <div className="row">
               <div className="col-md-12">

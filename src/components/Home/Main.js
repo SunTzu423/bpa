@@ -7,9 +7,6 @@ import MenuSection from '../MenHomeTwo/MenuSection'
 import DiscountSection from '../MenHomeTwo/DiscountSection'
 import WhoWe from '../MenHomeTwo/WhoWe'
 import Testimonial from '../MenHomeTwo/Testimonial'
-import OurTeam from '../MenHomeTwo/OurTeam'
-import Reservation from '../MenHomeTwo/Reservation'
-import Blog from '../MenHomeTwo/Blog'
 import Footer from '../Footer/Main'
 import Aos from 'aos'
 
@@ -32,9 +29,6 @@ function Main() {
                 <DiscountSection />
                 <WhoWe />
                 <Testimonial />
-                <OurTeam />
-                <Reservation />
-                <Blog />
                 <Footer />
             </div>
         </>

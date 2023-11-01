@@ -2,8 +2,6 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Slider from 'react-slick';
 import Icon01 from '../../assets/images/title_icon.png'
-import Icon02 from '../../assets/images/who_icon.png'
-import Icon03 from '../../assets/images/who_icon2.png'
 import gallery1 from '../../assets/images/gallery_01.png'
 import gallery2 from '../../assets/images/gallery_02.png'
 import gallery3 from '../../assets/images/gallery_03.png'
@@ -42,15 +40,10 @@ function WhoWe() {
                         <span className="sub_text">Who we are</span>
                         <h2>
                             A restaurant with Timeless &amp; Traditional taste <br />{" "}
-                            <span className="heading_img">
-                                <img src={Icon02} alt="img" />
-                            </span>
+                            
                             We Only Serve Real Steaks, <br />
                             Authentic Tastes &amp; Authentic Atmosphere, <br />
                             The steak you will always remember.{" "}
-                            <span className="heading_img">
-                                <img src={Icon03} alt="img" />
-                            </span>{" "}
                             Let us <br /> change your life with our steaks.
                         </h2>
                     </div>
