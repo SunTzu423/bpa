@@ -9,9 +9,7 @@ function Chef() {
   return (
     <>
       <section className="chef_section row_am bg_white_textcher">
-        <div className="side_shape position-absolute">
-          <img src={chefimg} alt="img" />
-        </div>
+
         <div className="container">
           <div className="row my-2 my-sm-4">
             <div className="col-md-6" data-aos="fade-up" data-aos-duration={1500} >

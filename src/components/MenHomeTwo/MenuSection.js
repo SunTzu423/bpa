@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import Dishimg from '../../assets/images/dish.png'
 
 
 function MenuSection() {
@@ -11,9 +10,7 @@ function MenuSection() {
     return (
         <>
             <section className="our_menu_section row_inner_am light_texchur">
-                <div className="side_shape">
-                    <img className="right_side" src={Dishimg} alt="img" />
-                </div>
+
                 <div className="container">
                     <div className="section_title text-center" data-aos="fade-up" data-aos-duration={1500} >
                         <span className="sub_text">Our menu</span>

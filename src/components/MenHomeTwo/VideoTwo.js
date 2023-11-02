@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import Bannerimg from '../../assets/images/banner_undershape.png'
-import Bannerimg01 from '../../assets/images/chiken_icon.png'
 import Textimg from '../../assets/images/video_text.png'
 import Playimg from '../../assets/images/play.png'
 import SmillyImg from '../../assets/images/smilly.png'
@@ -51,10 +49,7 @@ function VideoTwo() {
     return (
         <>
             <div className="home_video_section bg_white_textcher row_inner_am">
-                <div className="side_shape">
-                    <img className="right_shape" src={Bannerimg} alt="img" />
-                    <img className="left_shape" src={Bannerimg01} alt="img" />
-                </div>
+
                 <div className="container-fluid">
                     <div className="video_wraper" data-aos="fade-in" data-aos-duration={1500}>
                         <div className="play_vtn d-flex justify-content-center align-items-center">

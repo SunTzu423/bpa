@@ -1,5 +1,4 @@
 import React from 'react'
-import AboutImg from '../../assets/images/abtbanshape.png'
 import Icon01 from '../../assets/images/title_icon.png'
 import abt01 from '../../assets/images/abtban_01.png'
 import abt02 from '../../assets/images/abtban_02.png'
@@ -11,9 +10,7 @@ function AbtBanner() {
   return (
     <>
       <section className="abt_banner">
-        <div className="right_shape position-absolute">
-          <img src={AboutImg} alt="img" />
-        </div>
+
         <div className="section_title text-center">
           <span className="icon" data-aos="fade-down" data-aos-duration={1500}>
             <img src={Icon01} alt="img" />

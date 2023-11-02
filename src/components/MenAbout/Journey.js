@@ -8,9 +8,7 @@ function Journey() {
   return (
     <>
       <section className="row_am our_journey bg_white_textcher">
-        <div className="side_shape position-absolute" data-aos="fade-in" data-aos-duration={1500} >
-          <img src={Dish01} alt="img" />
-        </div>
+
         <div className="container">
           <div className="row_am">
             <div className="section_title" data-aos="fade-up" data-aos-duration={1500} >

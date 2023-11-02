@@ -7,9 +7,7 @@ function ReservOne() {
   return (
     <>
       <section className="bredcrumb_section resarvation_form reservationpage_1_bg">
-        <div className="side_shape position-absolute">
-          <img src={Img01} alt="img" />
-        </div>
+ 
         <div className="container">
           <div className="section_title text-center" data-aos="fade-up" data-aos-duration={1500} >
             <span className="icon">
