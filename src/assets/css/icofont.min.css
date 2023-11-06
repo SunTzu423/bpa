@@ -7053,7 +7053,8 @@
 }
 
 .icofont-clock-time:before {
-    content: "\eedc"
+    content: "\eedc";
+    padding-left: 1100%;
 }
 
 .icofont-close-circled:before {

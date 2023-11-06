@@ -1,13 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Img01 from '../../assets/images/reservation_side_elements.png'
 import Img02 from '../../assets/images/calendar.png'
 
 function ReservOne() {
   return (
     <>
       <section className="bredcrumb_section resarvation_form reservationpage_1_bg">
- 
         <div className="container">
           <div className="section_title text-center" data-aos="fade-up" data-aos-duration={1500} >
             <span className="icon">
@@ -47,9 +45,7 @@ function ReservOne() {
                   </div>
                   <div className="col-md-4">
                     <div className="form-group">
-                      <span className="icon">
-                        <i className="icofont-calendar" />
-                      </span>
+                      
                       <input type="date" className="form-control  flex-row-reverse" />
                     </div>
                   </div>
@@ -58,6 +54,7 @@ function ReservOne() {
                       <span className="icon">
                         <i className="icofont-clock-time" />
                       </span>
+                      
                       <input type="time" className="form-control has_icon  flex-row-reverse pl-0" />
                     </div>
                   </div>
