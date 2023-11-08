@@ -5153,7 +5153,8 @@
 }
 
 .icofont-user-alt-7:before {
-    content: "\ed01"
+    content: "\ed01";
+    padding-left: 1100%;
 }
 
 .icofont-user-female:before {

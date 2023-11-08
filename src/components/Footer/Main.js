@@ -23,8 +23,8 @@ function Main() {
               </div>
               <div className="col-md-5 text-md-right timing_block">
                 <p>
-                  Monday - Friday : 11AM - 10PM <br />
-                  Saturday - Sunday : 10AM - 11PM<br></br>
+                  Monday - Saturday  : 11AM - 10PM <br />
+                  Sunday : 12PM - 9PM<br></br>
                 </p>
                 <Link to="/reservation1" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(false)}>
                   book a table

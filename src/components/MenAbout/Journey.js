@@ -1,5 +1,4 @@
 import React from 'react'
-import Dish01 from '../../assets/images/dish.png'
 import Icon01 from '../../assets/images/outj_icon1.png'
 import Icon02 from '../../assets/images/outj_icon2.png'
 import Icon03 from '../../assets/images/outj_icon3.png'
