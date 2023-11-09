@@ -27,7 +27,7 @@ function Ourchefsection() {
                   </div>
                 </div>
                 <div className="section_title">
-                  <span className="sub_text">Our chef</span>
+                  <span className="sub_text">Our chef</span><br/>
                   <h2 className="mb-3">
                     a master chef with 25 <br /> years of experience
                   </h2>
@@ -37,9 +37,6 @@ function Ourchefsection() {
                     the when an unknown printer.
                   </p>
                 </div>
-                <Link to="#" className="btn btn_text">
-                  meet our team <i className="icofont-long-arrow-down" />
-                </Link>
               </div>
             </div>
           </div>

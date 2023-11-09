@@ -6,9 +6,6 @@ function Abtbanner() {
     return (
         <>
             <section className="abt_banner">
-                <div className="right_shape chef_shape position-absolute">
-                    <img src={Abt01} alt="img" />
-                </div>
                 <div className="section_title text-center">
                     <span className="icon" data-aos="fade-down" data-aos-duration={1500}>
                         <img src={Abt02} alt="img" />
