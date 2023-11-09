@@ -38,7 +38,7 @@ function ReservOne() {
     setFormData({
       name: '',
       phoneNumber: '',
-      partySize: ' Party Size',
+      partySize: '',
       date: '',
       time: '',
       message: '',
@@ -104,7 +104,7 @@ function ReservOne() {
                       <input
                     type="text"
                     className="form-control"
-                    placeholder="1 Person"
+                    placeholder="Party Size"
                     name="partySize"
                     value={formData.partySize}
                     onChange={handleInputChange}
