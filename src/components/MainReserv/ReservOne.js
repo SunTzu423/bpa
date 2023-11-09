@@ -6,7 +6,7 @@ function ReservOne() {
   const [formData, setFormData] = useState({
     name: '',
     phoneNumber: '',
-    partySize: ' Party Size',
+    partySize: 'Party Size',
     date: '',
     time: '',
     message: '',
