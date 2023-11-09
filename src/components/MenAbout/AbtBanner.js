@@ -16,16 +16,14 @@ function AbtBanner() {
             <img src={Icon01} alt="img" />
           </span>
           <span className="sub_text mb-1" data-aos="fade-down" data-aos-duration={1500} >
-            Our Story{" "}
+            Our Story{" "}<br />
           </span>
           <h2 data-aos="zoom-in" data-aos-duration={1500}>
             A luxury restaurant with A rare taste you <br /> can’t find anywhere in
-            paris.
+            Ohio.
           </h2>
           <p className="lead" data-aos="fade-up" data-aos-duration={1500}>
-            Lorem Ipsum is simply dummy text of the printing and typeset ting industry
-            lorem Ipsum has been the industrys standard my text ever since the when an
-            unknown printer took a galley of type and scrambled it to make.
+            Gamne Day Grill has the best food in town.
           </p>
         </div>
         <div className="abt_img">
