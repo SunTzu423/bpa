@@ -153,7 +153,7 @@ function MenuSection() {
                                     </div>
                                 </div>
                                 <div className="text-center">
-                                    <Link to="#" className="btn btn_primary">
+                                    <Link to="menulist3" className="btn btn_primary">
                                         view full menu
                                     </Link>
                                 </div>

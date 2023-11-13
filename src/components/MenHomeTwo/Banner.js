@@ -11,12 +11,12 @@ function Banner() {
                             <div className="slider_block" style={{ backgroundImage: `url(${BG1})` }} >
                                 <div className="ban_text ">
                                     <div className="inner_text">
-                                        <span className="sub_text">Welcome to the restaurant</span>
+                                        <span className="sub_text">Welcome to Game Day Grill</span>
                                         <h1>Steak &amp; BBQ restaurant</h1>
                                         <p className="lead">
                                             We Only Serve Real Steaks, The steak you will always remember.{" "}
                                         </p>
-                                        <Link href="/menulist1" className="btn btn_primary">
+                                        <Link to="/menulist3" className="btn btn_primary">
                                             view our full menu
                                         </Link>
                                     </div>

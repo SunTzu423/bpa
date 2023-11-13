@@ -148,9 +148,7 @@ function Main() {
             <Link to="/reservation1" className="btn btn_primary">
               book a table
             </Link>
-            <figure className="tab_img">
-              <img src={MenuImg} alt="img" />
-            </figure>
+            
           </div>
         </div>
       }

@@ -6,12 +6,12 @@ import Icon03 from '../../assets/images/outj_icon3.png'
 function Journey() {
   return (
     <>
-      <section className="row_am our_journey bg_white_textcher">
+      <section className="row_am our_journey bg_black_textcher">
 
         <div className="container">
           <div className="row_am">
             <div className="section_title" data-aos="fade-up" data-aos-duration={1500} >
-              <span className="sub_text">Why we best</span>
+              <span className="sub_text">Why we are the best</span>
               <h2>
                 our Journey started from 1923 <br /> to serve tasty steaks
               </h2>

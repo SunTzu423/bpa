@@ -25,7 +25,7 @@ const Testslider = {
 function Testimonial() {
     return (
         <>
-            <section className="row_inner_am testimonial_section bg_white_textcher">
+            <section className="row_inner_am testimonial_section bg_black_textcher">
                 <div className="container-fluid">
                     <div className="section_title text-center" data-aos="fade-up" data-aos-duration={1500} >
                         <span className="sub_text">Tasty words</span>

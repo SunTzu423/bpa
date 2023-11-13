@@ -23,7 +23,7 @@ function AbtBanner() {
             Ohio.
           </h2>
           <p className="lead" data-aos="fade-up" data-aos-duration={1500}>
-            Gamne Day Grill has the best food in town.
+            Game Day Grill has the best food in town.
           </p>
         </div>
         <div className="abt_img">

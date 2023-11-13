@@ -3,7 +3,6 @@ import Header from '../Header/Main'
 import Banner from '../MenHomeTwo/Banner'
 import Menulist from '../MenHomeTwo/Menulist'
 import VideoTwo from '../MenHomeTwo/VideoTwo'
-import MenuSection from '../MenHomeTwo/MenuSection'
 import DiscountSection from '../MenHomeTwo/DiscountSection'
 import WhoWe from '../MenHomeTwo/WhoWe'
 import Testimonial from '../MenHomeTwo/Testimonial'
@@ -25,9 +24,8 @@ function Main() {
                 <Banner />
                 <Menulist />
                 <VideoTwo />
-                <MenuSection />
-                <DiscountSection />
                 <WhoWe />
+                <DiscountSection />
                 <Testimonial />
                 <Footer />
             </div>
