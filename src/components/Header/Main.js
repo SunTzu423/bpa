@@ -30,7 +30,7 @@ function Main() {
         <div className="menu-backdrop" style={{ opacity: "1", visibility: "visible" }}></div>
       }
       <header className={`fixed ${menuOpen ? 'menu-open' : ''}`}>
-        <div className="container-fluid">
+        <div className="container-fluid" style={{backgroundColor:'#191919'}}>
           <nav className="navbar navbar-expand-lg">
             <Link className="navbar-brand" to="/">
               <img src={logo} alt="image" />
