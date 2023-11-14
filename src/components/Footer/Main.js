@@ -52,18 +52,13 @@ function Main() {
                     <Link to="/ourchef">Our chefs</Link>
                   </li>
                   <li>
-                    <Link to="/contact">Contact</Link>
+                    <Link to="/contact">Contact</Link><br></br>
                   </li>
                 </ul>
               </div>
             </div>
           </div>
-          <div className="row">
-            <div className="col-md-12 copy_right text-center">
-              <p>
-              </p>
-            </div>
-          </div>
+         
         </div>
         <div className="go_top" id="Gotop">
           <span>
