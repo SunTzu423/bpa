@@ -70,11 +70,6 @@ function Main() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/gallery" onClick={handleMenuItemClick}>
-                    gallery
-                  </Link>
-                </li>
-                <li className="nav-item">
                   <Link className="nav-link" to="/contact" onClick={handleMenuItemClick}>
                     Contact
                   </Link>
