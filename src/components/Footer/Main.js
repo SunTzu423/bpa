@@ -61,7 +61,6 @@ function Main() {
           <div className="row">
             <div className="col-md-12 copy_right text-center">
               <p>
-                © 2023 Game Day Grill. All Rights Reserved 
               </p>
             </div>
           </div>
