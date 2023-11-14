@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import logo from '../../assets/images/logo.png'
-import MenuImg from '../../assets/images/right_menu_table.png'
 
 function Main() {
 

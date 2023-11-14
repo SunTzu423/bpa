@@ -23,7 +23,6 @@ function Main() {
                 <Header />
                 <Banner />
                 <Menulist />
-                <VideoTwo />
                 <WhoWe />
                 <DiscountSection />
                 <Testimonial />
