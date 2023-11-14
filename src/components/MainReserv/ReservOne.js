@@ -59,7 +59,7 @@ function ReservOne() {
               <img src={Img02} alt="img" />
             </span>
             <span className="sub_text">Online reservation</span>
-            <h2>Game Day Grill, Albuquerque, New Mexico, USA</h2>
+            <h2>Game Day Grill, Delaware, Ohio, USA</h2>
           </div>
           <div className="form_inner" data-aos="fade-in" data-aos-duration={1500} data-aos-delay={150} >
             <div className="formBlock">
@@ -160,7 +160,7 @@ function ReservOne() {
                 <li>
                   <h3>Location</h3>
                   <p>
-                  308 Negra Arroyo Lane, Albuquerque, NM
+                  4565 Columbus Pike, <br />Delaware, OH
                   </p>
                 </li>
                 <li>

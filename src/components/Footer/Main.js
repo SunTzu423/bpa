@@ -13,8 +13,8 @@ function Main() {
             <div className="row py_50">
               <div className="col-md-7 direction_block">
                 <p>
-                  308 Negra Arroyo Lane, <br />
-                  Albuquerque, NM <br />
+                4565 Columbus Pike, <br />
+                Delaware, OH <br />
                   Booking : <Link to="tel:+88-123-123456">614-525-1000</Link>
                 </p>
                 <Link to="/contact" className="btn_text">

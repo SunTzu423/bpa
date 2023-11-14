@@ -51,7 +51,7 @@ function ContactUS() {
                   <li>
                     <p className="sub_title">Find us</p>
                     <div className="cnt_block">
-                      <p>308 Negra Arroyo Lane, Albuquerque, NM</p>
+                      <p>4565 Columbus Pike, Delaware, OH</p>
                       <span>
                         <i className="icofont-location-pin" />
                       </span>
