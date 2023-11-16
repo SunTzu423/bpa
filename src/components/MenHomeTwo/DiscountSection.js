@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import DishImg from '../../assets/images/gallery_07.png'
+import DishImg from '../../assets/images/gallery_01.png'
 
 function DiscountSection() {
     return (
