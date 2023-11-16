@@ -28,7 +28,7 @@ function DiscountSection() {
                                             <span className="new_price">$25.00</span>
                                             <span className="old_price">$50.00</span>
                                         </p>
-                                        <Link to="/MenuList1" className="btn btn_primary">
+                                        <Link to="/MenuList3" className="btn btn_primary">
                                             explore more
                                         </Link>
                                     </div>
