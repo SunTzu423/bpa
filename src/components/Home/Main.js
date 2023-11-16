@@ -21,8 +21,7 @@ function Main() {
             <div className='index_wraper'>
                 <Header />
                 <Banner />
-                <Menulist />
-                <WhoWe />
+                <Menulist />              
                 <DiscountSection />
                 <Testimonial />
                 <Footer />
