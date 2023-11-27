@@ -14,7 +14,7 @@ function Banner() {
                                         <span className="sub_text">Welcome to Game Day Grill</span>
                                         <h1>Steak &amp; BBQ restaurant</h1>
                                         <p className="lead">
-                                            We Only Serve Real Steaks, The steak you will always remember.{" "}
+                                            We Only Serve Real Steaks, The steak you will never forget.{" "}
                                         </p>
                                         <Link to="/menulist3" className="btn btn_primary">
                                             view our full menu
