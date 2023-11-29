@@ -84,6 +84,11 @@ function Main() {
                     FIND A TABLE
                   </Link>
                 </li>
+                <li className="nav-item">
+                  <Link to="/reservation2" className="nav-link" onClick={handleMenuItemClick}>
+                    Cart
+                  </Link>
+                </li>
               </ul>
             </div>
 

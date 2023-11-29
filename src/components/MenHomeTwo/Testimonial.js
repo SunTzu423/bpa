@@ -126,72 +126,7 @@ It made me stop my One Piece addiction. I picked it back up afterwards, but it w
                                             <span>
                                                 <i className="icofont-star" />
                                             </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
-                                            <span>
-                                                <i className="icofont-star" />
-                                            </span>
+                                            
                                         </div>
                                         <h2>
                                            Howdy! Game Day Grill's website deserves a big 5 stars. It's easy to use, the menu looks tasty, and ordering online is super quick. Y'all gotta visit for some great eats!
