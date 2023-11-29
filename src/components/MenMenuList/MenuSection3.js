@@ -50,9 +50,9 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Bolognese</h3>
                             <p>
-                            Pasta, Italian meat sauce, beef, pork, veal
+                            Pasta, Italian meat sauce, beef, pork, and veal
                             </p>
-                            <span className="price">$200.00</span>
+                            <span className="price">$20</span>
                           </div>
                         </div>
                       </div>
@@ -68,7 +68,7 @@ function MenuSection3() {
                             <p>
                             steak, garlic parmesan mashed potatoes, green beans
                             </p>
-                            <span className="price">$520.00</span>
+                            <span className="price">$52</span>
                           </div>
                         </div>
                       </div>
@@ -84,7 +84,7 @@ function MenuSection3() {
                             <p>
                             homemade meatballs, provolone cheese, marinara, hoagie bun, hand cut fries
                             </p>
-                            <span className="price">$170.00</span>
+                            <span className="price">$17</span>
                           </div>
                         </div>
                       </div>
@@ -107,7 +107,7 @@ function MenuSection3() {
                             <p>
                             alfredo sauce, parmesan cheese | option of adding chicken breast for + $70 | option of adding shrimp for + $90 | option of adding sausage for + $70
                             </p>
-                            <span className="price">$160.00</span>
+                            <span className="price">$16</span>
                           </div>
                         </div>
                       </div>
@@ -123,7 +123,7 @@ function MenuSection3() {
                             <p>
                             Chicken breast, Parmesan herb crust, red sauce, provolone, lemon parmesan aioli, romaine, red onion, brioche bun, hand cut fries
                             </p>
-                            <span className="price">$160.00</span>
+                            <span className="price">$16</span>
                           </div>
                         </div>
                       </div>
@@ -139,7 +139,7 @@ function MenuSection3() {
                             <p>
                             Chicken breast, angel hair, lemon, capers, parmesan reggiano
                             </p>
-                            <span className="price">$250.00</span>
+                            <span className="price">$25</span>
                           </div>
                         </div>
                       </div>
@@ -162,7 +162,7 @@ function MenuSection3() {
                             <p>
                             alfredo sauce, parmesan cheese | option of adding chicken breast for + $70 | option of adding shrimp for + $90 | option of adding sausage for + $70
                             </p>
-                            <span className="price">$22.00</span>
+                            <span className="price">$22</span>
                           </div>
                         </div>
                       </div>
@@ -178,7 +178,7 @@ function MenuSection3() {
                             <p>
                             Pasta, Italian meat sauce, beef, pork, veal
                             </p>
-                            <span className="price">$200.00</span>
+                            <span className="price">$20</span>
                           </div>
                         </div>
                       </div>
@@ -194,7 +194,7 @@ function MenuSection3() {
                             <p>
                             pesto, provolone, pepper jack, caramelized onions, capicola ham, focaccia bread, hand cut fries, side of marinara
                             </p>
-                            <span className="price">$16.00</span>
+                            <span className="price">$16</span>
                           </div>
                         </div>
                       </div>
@@ -217,7 +217,7 @@ function MenuSection3() {
                             <p>
                             alfredo sauce, parmesan cheese | option of adding chicken breast for + $70 | option of adding shrimp for + $90 | option of adding sausage for + $70
                             </p>
-                            <span className="price">$160.00</span>
+                            <span className="price">$16</span>
                           </div>
                         </div>
                       </div>
@@ -233,7 +233,7 @@ function MenuSection3() {
                             <p>
                             scallops, sweet potato risotto
                             </p>
-                            <span className="price">$350.00</span>
+                            <span className="price">$35</span>
                           </div>
                         </div>
                       </div>
@@ -245,11 +245,11 @@ function MenuSection3() {
                             <img src="assets/images/dish_05.png" alt="img" />
                           </div>
                           <div className="dish_text">
-                            <h3>Gratifying Grouper</h3>
+                            <h3>Grouper</h3>
                             <p>
                             Grouper, crawfish cream sauce, Polenta
                             </p>
-                            <span className="price">$350.00</span>
+                            <span className="price">$35</span>
                           </div>
                         </div>
                       </div>
@@ -265,7 +265,7 @@ function MenuSection3() {
                             <p>
                             mussels, white wine and garlic sauce, lemon, tomatoes
                             </p>
-                            <span className="price">$220.00</span>
+                            <span className="price">$22</span>
                           </div>
                         </div>
                       </div>
@@ -281,7 +281,7 @@ function MenuSection3() {
                             <p>
                             Salmon, green beans, zucchini, butter
                             </p>
-                            <span className="price">$290.00</span>
+                            <span className="price">$29</span>
                           </div>
                         </div>
                       </div>
@@ -297,7 +297,7 @@ function MenuSection3() {
                             <p>
                             scallops, herb risotto
                             </p>
-                            <span className="price">$18.00</span>
+                            <span className="price">$18</span>
                           </div>
                         </div>
                       </div>
