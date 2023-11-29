@@ -2,6 +2,7 @@ import React,{useEffect} from 'react'
 import Header from '../Header/Main'
 import Footer from '../Footer/Main'
 import ReservTwo from '../MainReserv/ReservTwo'
+import Information from '../MenCheckout/Information'
 import Aos from 'aos'
 
 

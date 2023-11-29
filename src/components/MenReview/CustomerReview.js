@@ -5,13 +5,11 @@ import Review04 from '../../assets/images/review_04.png'
 import Review05 from '../../assets/images/review_05.png'
 import Review06 from '../../assets/images/review_06.png'
 import Review07 from '../../assets/images/review_07.png'
-import Review08 from '../../assets/images/review_08.png'
-import Review09 from '../../assets/images/review_09.png'
 
 const reviewData = [
   {
     image: Review03,
-    starCount: 27,
+    starCount: 5,
     text: "Well, howdy there, y'all! I gotta tell y'all 'bout this here website for Game Day Grill. It's a-gonna get a big ol' 5-star hootin' and hollerin' from me, ya hear? I reckon this website's as slick as a fresh coat of grease on a pig at the county fair. It's so dang easy to navigate, even a possum with a broken leg could figure it out! I found everythin' I needed lickety-split. The menu, bless my heart, it's like a smorgasbord of heaven right on my screen. You can find all them tasty vittles without breakin' a sweat. Now, lemme tell ya 'bout the food. Dagnabbit, it's like a flavor explosion in your mouth! They got burgers that'll make your taste buds do a hoedown, and them chicken wings, oh mercy, they're hotter than a hornet's nest. You can see all them scrumptious dishes right on the website, and it's got me hankerin' for a feast every time I visit. And don't get me started on the online orderin'. It's smoother than a buttered biscuit slidin' down a hill. Quick as a jackrabbit on a hot griddle, you can place your order and be on your way to pick up some of the best grub in town. So, in sum, y'all, Game Day Grill's website is as fine as a fiddle at a barn dance. 5 stars ain't enough to do it justice. If you ain't visited their website yet, well, you better mosey on over there pronto, or you'll be missin' out on some mighty fine eats! Yeehaw!",
     name: "Levi Stover",
   },
@@ -30,34 +28,21 @@ const reviewData = [
   {
     image: Review05,
     starCount: 5,
-    text: "It’s a great experience. The ambiance is realy very welcoming and charming. Amazing food, wines and services.",
-    name: "Marry Christina",
+    text: "It was very easy to place a reservation on the website. Their chicken alfredo was the greatest I've ever had in my life. Absolutely will stop by here again with others.",
+    name: "Nolan Gregson",
   },
   {
     image: Review06,
     starCount: 5,
     text: "It’s a great experience. The ambiance is realy very welcoming and charming. Amazing food, wines and services.",
-    name: "Marry Christina",
+    name: "Kenneth Adams",
   },
   {
     image: Review07,
     starCount: 5,
     text: "Amazing ambience, great food, very courteous staff. Overall very good experience. Best place to have real steak food.",
-    name: "Willium Joe",
+    name: "Leon Milliner",
   },
-  {
-    image: Review08,
-    starCount: 5,
-    text: "It’s a great experience. The ambiance is realy very welcoming and charming. Amazing food, wines and services.",
-    name: "Marry Christina",
-  },
-  {
-    image: Review09,
-    starCount: 5,
-    text: "Amazing ambience, great food, very courteous staff. Overall very good experience. Best place to have real steak food.",
-    name: "Willium Joe",
-  },
-
 ];
 
 

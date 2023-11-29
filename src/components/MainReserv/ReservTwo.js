@@ -10,8 +10,8 @@ function ReservTwo() {
             <span className="icon aos-init aos-animate" data-aos="fade-down" data-aos-duration={1500} >
               <img src="assets/images/calendar.png" alt="img" />
             </span>
-            <span className="sub_text">Online Reservation</span>
-            <h2>Flavoury Restaurant, Delicious City, London</h2>
+            <span className="sub_text">Customer Checkout</span>
+            <h2>Game Day Grill, Delaware, Ohio</h2>
           </div>
           <div className="row">
             <div className="col-md-1" />
@@ -20,10 +20,9 @@ function ReservTwo() {
                 <div className="modal-dialog modal-dialog-centered" role="document">
                   <div className="modal-content">
                     <div className="modal-header text-center border-0 d-block p-0">
-                      <h2 className="mb-2">Book your delicious table now</h2>
+                      <h2 className="mb-2">Pay for your delicious orders</h2>
                       <p>
-                        Booking request <Link to="tel:+88123123456">+88-123-123456</Link>{" "}
-                        or fill out the order form
+                        Fill out the form below to checkout your order
                       </p>
                     </div>
                     <div className="modal-body">
@@ -32,46 +31,93 @@ function ReservTwo() {
                           <div className="row">
                             <div className="col-md-6">
                               <div className="form-group">
-                                <input type="text" className="form-control" placeholder="Your Name" />
+                                <input type="text" className="form-control" placeholder="Email" />
+                              </div>
+                              <div className="form-group">
+                                <input type="text" className="form-control" placeholder="Last Name" />
+                              </div>
+                              <div className="form-group">
+                                <input type="text" className="form-control" placeholder="City" />
                               </div>
                             </div>
                             <div className="col-md-6">
                               <div className="form-group">
+                                <input type="text" className="form-control" placeholder="First Name" />
+                              </div>
+                              <div className="form-group">
+                                <input type="text" className="form-control" placeholder="Address" />
+                              </div>
+                              <div className="form-group">
+                                <input type="text" className="form-control" placeholder="Zip" />
+                              </div>
+                            </div>
+                            <div className="col-md-4">
+                              <div className="form-group">
+                                  <select name="state" className="form-control">
+                                      <option value="Select">Select State</option>
+                                      <option value="Alabama">Alabama</option>
+                                      <option value="Alaska">Alaska</option>
+                                      <option value="Arizona">Arizona</option>
+                                      <option value="Arkansas">Arkansas</option>
+                                      <option value="California">California</option>
+                                      <option value="Colorado">Colorado</option>
+                                      <option value="Connecticut">Connecticut</option>
+                                      <option value="Delaware">Delaware</option>
+                                      <option value="Florida">Florida</option>
+                                      <option value="Georgia">Georgia</option>
+                                      <option value="Hawaii">Hawaii</option>
+                                      <option value="Idaho">Idaho</option>
+                                      <option value="Illinois">Illinois</option>
+                                      <option value="Indiana">Indiana</option>
+                                      <option value="Iowa">Iowa</option>
+                                      <option value="Kansas">Kansas</option>
+                                      <option value="Kentucky">Kentucky</option>
+                                      <option value="Louisiana">Louisiana</option>
+                                      <option value="Maine">Maine</option>
+                                      <option value="Maryland">Maryland</option>
+                                      <option value="Massachusetts">Massachusetts</option>
+                                      <option value="Michigan">Michigan</option>
+                                      <option value="Minnesota">Minnesota</option>
+                                      <option value="Mississippi">Mississippi</option>
+                                      <option value="Missouri">Missouri</option>
+                                      <option value="Montana">Montana</option>
+                                      <option value="Nebraska">Nebraska</option>
+                                      <option value="Nevada">Nevada</option>
+                                      <option value="New Hampshire">New Hampshire</option>
+                                      <option value="New Jersey">New Jersey</option>
+                                      <option value="New Mexico">New Mexico</option>
+                                      <option value="New York">New York</option>
+                                      <option value="North Carolina">North Carolina</option>
+                                      <option value="North Dakota">North Dakota</option>
+                                      <option value="Ohio">Ohio</option>
+                                      <option value="Oklahoma">Oklahoma</option>
+                                      <option value="Oregon">Oregon</option>
+                                      <option value="Pennsylvania">Pennsylvania</option>
+                                      <option value="Rhode Island">Rhode Island</option>
+                                      <option value="South Carolina">South Carolina</option>
+                                      <option value="South Dakota">South Dakota</option>
+                                      <option value="Tennessee">Tennessee</option>
+                                      <option value="Texas">Texas</option>
+                                      <option value="Utah">Utah</option>
+                                      <option value="Vermont">Vermont</option>
+                                      <option value="Virginia">Virginia</option>
+                                      <option value="Washington">Washington</option>
+                                      <option value="West Virginia">West Virginia</option>
+                                      <option value="Wisconsin">Wisconsin</option>
+                                      <option value="Wyoming">Wyoming</option>
+                                  </select>
+                              </div>
+                            </div>
+                            <div className="form-group">
                                 <input type="text" className="form-control" placeholder="Phone Number" />
                               </div>
-                            </div>
                             <div className="col-md-4">
-                              <div className="form-group">
-                                <span className="icon">
-                                  <i className="icofont-user-alt-7" />
-                                </span>
-                                <input type="text" className="form-control has_icon" placeholder="1 Person" />
-                              </div>
-                            </div>
-                            <div className="col-md-4">
-                              <div className="form-group">
-                                <span className="icon">
-                                  <i className="icofont-calendar" />
-                                </span>
-                                <input type="date" className="form-control  flex-row-reverse" />
-                              </div>
-                            </div>
-                            <div className="col-md-4">
-                              <div className="form-group">
-                                <span className="icon">
-                                  <i className="icofont-clock-time" />
-                                </span>
-                                <input type="time" className="form-control has_icon  flex-row-reverse pl-0" />
-                              </div>
                             </div>
                             <div className="col-md-12">
-                              <div className="form-group">
-                                <textarea className="form-control" placeholder="Message" defaultValue={""} />
-                              </div>
                             </div>
                             <div className="col-md-12">
                               <button className="btn btn_primary w-100 ">
-                                book a table
+                                pay now
                               </button>
                             </div>
                           </div>

@@ -13,7 +13,7 @@ function Journey() {
             <div className="section_title" data-aos="fade-up" data-aos-duration={1500} >
               <span className="sub_text">Why we are the best</span>
               <h2>
-                our Journey started from 1923 <br /> to serve tasty steaks
+                our Journey started in 2023 <br /> to serve tasty steaks
               </h2>
             </div>
             <div className="row">
