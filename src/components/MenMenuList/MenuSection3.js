@@ -32,7 +32,7 @@ function MenuSection3() {
             <li className="nav-item">
               <Link className={`nav-link ${tabMenu.d && "active"}`}
                 onClick={() => tabActive({ d: true })} id="seafood-tab" data-toggle="tab" to="#deserts" role="tab" aria-controls="deserts" aria-selected="false" >
-                fish
+                seafood
               </Link>
             </li>
             
