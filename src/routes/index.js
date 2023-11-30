@@ -29,7 +29,7 @@ function Index() {
           <Route path="/menulist3" element={<MenuList />} />
           <Route path="/about" element={<About />} />
           <Route path="/reservation1" element={<Reserv1 />} />
-          <Route path="/reservation2" element={<Resrv2 />} />
+          <Route path="/cart" element={<Resrv2 />} />
           <Route path="/review" element={<Reviews />} />
           <Route path="/ourchef" element={<OurChef />} />
           <Route path="/contact" element={<Contact/>}/>

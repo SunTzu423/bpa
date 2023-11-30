@@ -87,7 +87,7 @@ function Main() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="navbar-brand" to="/reservation2">
+                  <Link className="navbar-brand" to="/cart">
                   <img src={cart} alt="image" />
             </Link>
                 </li>
