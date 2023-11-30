@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import logo from '../../assets/images/logo.png'
+import cart from '../../assets/images/cart.png'
 
 function Main() {
 
@@ -35,6 +36,7 @@ function Main() {
             <Link className="navbar-brand" to="/">
               <img src={logo} alt="image" />
             </Link>
+            
             <button className={`navbar-toggler ${menuOpen ? 'open' : ''}`} type="button" onClick={toggleMenu}>
               <span className="navbar-toggler-icon" onClick={() => setHome(Home === true ? false : true)}>
                 <span className={`toggle-wrap ${menuOpen ? "active" : ""}`}>
@@ -85,9 +87,9 @@ function Main() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link to="/reservation2" className="nav-link" onClick={handleMenuItemClick}>
-                    Cart
-                  </Link>
+                  <Link className="navbar-brand" to="/reservation2">
+                  <img src={cart} alt="image" />
+            </Link>
                 </li>
               </ul>
             </div>

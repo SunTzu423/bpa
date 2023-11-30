@@ -5,7 +5,7 @@ import DishImg from '../../assets/images/gallery_01.png'
 function DiscountSection() {
     return (
         <>
-            <section className="discount_section bg_white_textcher row_inner_am">
+            <section className="discount_section bg_black_textcher row_inner_am">
                 <div className="container">
                     <div className="section_title text-center" data-30-top="position: sticky;"
                         data-aos="fade-up" data-aos-duration={1500} style={{ position: "sticky" }}>
