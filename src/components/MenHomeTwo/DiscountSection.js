@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import DishImg from '../../assets/images/gallery_01.png'
+import DishImg from '../../assets/images/abtgallery_04.png'
 
 function DiscountSection() {
     return (
@@ -18,15 +18,13 @@ function DiscountSection() {
                                 <div className="dish_text">
                                     <div className="text">
                                         <span className="off">50% off</span>
-                                        <h3 style= {{color : 'black'}}>Beef steak grill pan</h3>
+                                        <h3 style= {{color : 'black'}}>Filet Mignon</h3>
                                         <p>
-                                            Beef, Eggs, poached, fried, with <br /> bacon, chorizo, roasted
-                                            roma toma <br />
-                                            toes. mushrooms &amp; spinach.
+                                            Steak, garlic parmesan mashed potatoes, green beans <br/>
                                         </p>
                                         <p className="price">
-                                            <span className="new_price">$25.00</span>
-                                            <span className="old_price">$50.00</span>
+                                            <span className="new_price">$26.00</span>
+                                            <span className="old_price">$52.00</span>
                                         </p>
                                         <Link to="/MenuList3" className="btn btn_primary">
                                             explore more
