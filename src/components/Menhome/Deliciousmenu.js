@@ -231,7 +231,7 @@ function Deliciousmenu() {
                 </div>
                 <div className="menu_name">
                   <h3>
-                    <Link to="/menulist3">BRUNCH</Link>
+                    <Link to="/menulist">BRUNCH</Link>
                   </h3>
                 </div>
                 <div className="menuMobileLIst">
@@ -253,7 +253,7 @@ function Deliciousmenu() {
                     </li>
                   </ul>
                 </div>
-                <Link to="/menulist3" className="btn btn_primary">
+                <Link to="" className="btn btn_primary">
                   View Our Menu <i className="icofont-long-arrow-right" />
                 </Link>
               </div>

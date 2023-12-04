@@ -41,7 +41,7 @@ function PrivateSection() {
                   since the when an unknown printer took a galley of type and
                   scrambled it to make a type specimen book It has survived.
                 </p>
-                <Link to="/reservation1" className="btn btn_primary" data-aos="fade-up" data-aos-duration={1500} >
+                <Link to="/reservation" className="btn btn_primary" data-aos="fade-up" data-aos-duration={1500} >
                   BOOK EVENT NOW <i className="icofont-long-arrow-right" />
                 </Link>
               </div>

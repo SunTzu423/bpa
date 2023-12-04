@@ -81,6 +81,7 @@ function ReservOne() {
                     name="name"
                     value={formData.name}
                     onChange={handleInputChange}
+                    required
                   />
                     </div>
                   </div>
@@ -93,6 +94,7 @@ function ReservOne() {
                     name="phoneNumber"
                     value={formData.phoneNumber}
                     onChange={handleInputChange}
+                    required
                   />
                     </div>
                   </div>
@@ -108,6 +110,7 @@ function ReservOne() {
                     name="partySize"
                     value={formData.partySize}
                     onChange={handleInputChange}
+                    required
                   />
                     </div>
                   </div>
@@ -121,6 +124,7 @@ function ReservOne() {
                     name="date"
                     value={formData.date}
                     onChange={handleInputChange}
+                    required
                     />
                     </div>
                   </div>
@@ -136,12 +140,13 @@ function ReservOne() {
                       name="time"
                       value={formData.time}
                       onChange={handleInputChange}
+                      required
                       />
                     </div>
                   </div>
                   <div className="col-md-12">
                     <div className="form-group">
-                      <textarea className="form-control" placeholder="Message" defaultValue={""} />
+                      <textarea className="form-control"  placeholder="Message" defaultValue={""}/>
                     </div>
                   </div>
                   <div className="col-md-12">

@@ -52,7 +52,7 @@ function Main() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/menulist3" onClick={handleMenuItemClick}>
+                  <Link className="nav-link" to="/menulist" onClick={handleMenuItemClick}>
                     MENU
                   </Link>
                 </li>
@@ -62,7 +62,7 @@ function Main() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/reservation1" onClick={handleMenuItemClick}>
+                  <Link className="nav-link" to="/reservation" onClick={handleMenuItemClick}>
                     reservation
                   </Link>
                 </li>
@@ -82,7 +82,7 @@ function Main() {
                   </Link>
                 </li>
                 <li className="d-lg-none">
-                  <Link to="/reservation1" className="btn btn_primary" onClick={handleMenuItemClick}>
+                  <Link to="/reservation" className="btn btn_primary" onClick={handleMenuItemClick}>
                     FIND A TABLE
                   </Link>
                 </li>
@@ -95,7 +95,7 @@ function Main() {
             </div>
 
             <div className="action_bar">
-              <Link to="/reservation1" className="btn btn_primary" onClick={handleMenuItemClick}>
+              <Link to="/reservation" className="btn btn_primary" onClick={handleMenuItemClick}>
                 FIND A TABLE
               </Link>
               <div className="bar" onClick={() => setNav(true)}>
@@ -146,7 +146,7 @@ function Main() {
                 </div>
               </li>
             </ul>
-            <Link to="/reservation1" className="btn btn_primary">
+            <Link to="/reservation" className="btn btn_primary">
               book a table
             </Link>
             

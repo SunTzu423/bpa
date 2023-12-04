@@ -26,7 +26,7 @@ function Main() {
                   Monday - Saturday  : 11AM - 10PM <br />
                   Sunday : 12PM - 9PM<br></br>
                 </p>
-                <Link to="/reservation1" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(false)}>
+                <Link to="/reservation" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(false)}>
                   book a table
                 </Link>
               </div>
@@ -42,7 +42,7 @@ function Main() {
                   </li>
 
                   <li>
-                    <Link to="/menulist3">Menu </Link>
+                    <Link to="/menulist">Menu </Link>
                   </li>
 
                   <li>

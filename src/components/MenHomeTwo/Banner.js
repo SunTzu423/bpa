@@ -16,7 +16,7 @@ function Banner() {
                                         <p className="lead">
                                             We Only Serve Real Steaks, The steak you will never forget.{" "}
                                         </p>
-                                        <Link to="/menulist3" className="btn btn_primary">
+                                        <Link to="/menulist" className="btn btn_primary">
                                             view our full menu
                                         </Link>
                                     </div>
