@@ -21,7 +21,7 @@ function DiscountSection() {
                                         <h3 style= {{color : 'black'}}>Filet Mignon</h3>
                                         <p>
                                             Steak, garlic parmesan mashed potatoes, green beans <br/>
-                                        </p>
+                                        </p> 
                                         <p className="price">
                                             <span className="new_price">$26.00</span>
                                             <span className="old_price">$52.00</span>
