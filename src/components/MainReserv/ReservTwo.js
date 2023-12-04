@@ -31,30 +31,30 @@ function ReservTwo() {
                           <div className="row">
                             <div className="col-md-6">
                               <div className="form-group">
-                                <input type="text" className="form-control" placeholder="Email" />
+                                <input type="text" className="form-control" placeholder="Email" required/>
                               </div>
                               <div className="form-group">
-                                <input type="text" className="form-control" placeholder="Last Name" />
+                                <input type="text" className="form-control" placeholder="Last Name" required/>
                               </div>
                               <div className="form-group">
-                                <input type="text" className="form-control" placeholder="City" />
+                                <input type="text" className="form-control" placeholder="City" required/>
                               </div>
                             </div>
                             <div className="col-md-6">
                               <div className="form-group">
-                                <input type="text" className="form-control" placeholder="First Name" />
+                                <input type="text" className="form-control" placeholder="First Name" required/>
                               </div>
                               <div className="form-group">
-                                <input type="text" className="form-control" placeholder="Address" />
+                                <input type="text" className="form-control" placeholder="Address" required/>
                               </div>
                               <div className="form-group">
-                                <input type="text" className="form-control" placeholder="Zip" />
+                                <input type="text" className="form-control" placeholder="Zip" required/>
                               </div>
                             </div>
                             <div className="col-md-4">
                               <div className="form-group">
-                                  <select name="state" className="form-control">
-                                      <option value="Select">Select State</option>
+                                  <select name="state" className="form-control"required>
+                                      <option value="">Select State</option>
                                       <option value="Alabama">Alabama</option>
                                       <option value="Alaska">Alaska</option>
                                       <option value="Arizona">Arizona</option>
@@ -109,7 +109,7 @@ function ReservTwo() {
                               </div>
                             </div>
                             <div className="form-group">
-                                <input type="text" className="form-control" placeholder="Phone Number" />
+                                <input type="text" className="form-control" placeholder="Phone Number" required/>
                               </div>
                             <div className="col-md-4">
                             </div>

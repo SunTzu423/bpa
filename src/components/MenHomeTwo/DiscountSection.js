@@ -18,7 +18,7 @@ function DiscountSection() {
                                 <div className="dish_text">
                                     <div className="text">
                                         <span className="off">50% off</span>
-                                        <h3>Beef steak grill pan</h3>
+                                        <h3 style= {{color : 'black'}}>Beef steak grill pan</h3>
                                         <p>
                                             Beef, Eggs, poached, fried, with <br /> bacon, chorizo, roasted
                                             roma toma <br />
