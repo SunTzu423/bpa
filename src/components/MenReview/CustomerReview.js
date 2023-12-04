@@ -10,20 +10,20 @@ const reviewData = [
   {
     image: Review03,
     starCount: 5,
-    text: "Well, howdy there, y'all! I gotta tell y'all 'bout this here website for Game Day Grill. It's a-gonna get a big ol' 5-star hootin' and hollerin' from me, ya hear? I reckon this website's as slick as a fresh coat of grease on a pig at the county fair. It's so dang easy to navigate, even a possum with a broken leg could figure it out! I found everythin' I needed lickety-split. The menu, bless my heart, it's like a smorgasbord of heaven right on my screen. You can find all them tasty vittles without breakin' a sweat. Now, lemme tell ya 'bout the food. Dagnabbit, it's like a flavor explosion in your mouth! They got burgers that'll make your taste buds do a hoedown, and them chicken wings, oh mercy, they're hotter than a hornet's nest. You can see all them scrumptious dishes right on the website, and it's got me hankerin' for a feast every time I visit. And don't get me started on the online orderin'. It's smoother than a buttered biscuit slidin' down a hill. Quick as a jackrabbit on a hot griddle, you can place your order and be on your way to pick up some of the best grub in town. So, in sum, y'all, Game Day Grill's website is as fine as a fiddle at a barn dance. 5 stars ain't enough to do it justice. If you ain't visited their website yet, well, you better mosey on over there pronto, or you'll be missin' out on some mighty fine eats! Yeehaw!",
+    text: "Howdy, y'all! Game Day Grill's website is a solid 5-star winner. It's as slick as grease on a pig, easy to navigate, and the menu's a heavenly feast. The food's a flavor explosion – burgers that'll make your taste buds dance. Online ordering is smoother than a buttered biscuit. It's a fine website, 5 stars ain't enough. Mosey on over pronto for some mighty fine eats! Yeehaw!",
     name: "Levi Stover",
+  },
+  {
+    image: Review04,
+    starCount: 5,
+    text: "First visit to Game Day Grill, ordered Bolognese for the kids – best meal ever. Incredibly delicious, like dining on another planet. Kids and I couldn't get enough. Amazing service – attentive, friendly staff, went above and beyond to make our visit enjoyable. Left with full bellies, smiles, and a newfound appreciation for Game Day Grill. Well-deserved 5-star review for an exceptional dining experience.",
+    name: "Miles Janow",
   },
   {
     image: Review01,
     starCount: 5,
     text: "It made me stop my One Piece addiction. I picked it back up afterwards, but it was a good distraction. ",
     name: "Kameron Carter",
-  },
-  {
-    image: Review04,
-    starCount: 5E+0,
-    text: "When I first took my family to Game Day Grill, we ordered eggs and rice for the kids. Well, let me tell you, it was the best meal I ever had. The eggs and rice were incredibly delicious. It was like we were dining on a completely different planet. The eggs were perfectly cooked, fluffy, and bursting with flavor. The rice was moist and well-seasoned, which was a pleasant surprise. The kids and I couldn't get enough of it. The service was amazing as well. The staff was attentive, friendly, and made sure we had everything we needed. They greeted us nicely and truly went above and beyond to make our visit enjoyable. We left the restaurant with full bellies, smiles on our faces, and a newfound appreciation for Game Day Grill. I'm giving them a well-deserved 5-star review for making our dining experience exceptional.",
-    name: "Miles Janow",
   },
   {
     image: Review05,
@@ -34,7 +34,7 @@ const reviewData = [
   {
     image: Review06,
     starCount: 5,
-    text: "It’s a great experience. The ambiance is realy very welcoming and charming. Amazing food, wines and services.",
+    text: "This website is amazing! It is very easy to navigate in, and the design within the website adds a lot to to the feeling of the restaurant.",
     name: "Kenneth Adams",
   },
   {
