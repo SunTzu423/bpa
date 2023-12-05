@@ -51,6 +51,7 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Bolognese</h3>
                             <p>
+                            A rich beef, veal and pork sauce complimented by the soft pasta that combines to bring you a mouthwatering aroma. <br /><br />
                             Pasta, Italian meat sauce, beef, pork, and veal
                             </p>
                             <span className="price">$20</span>
@@ -67,6 +68,7 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Filet Mignon</h3>
                             <p>
+                            Juicy cut of beef seared to perfection complimented by rich garlic parmesan mashed potatoes and fabulous side of green beans.<br /><br />
                             steak, garlic parmesan mashed potatoes, green beans
                             </p>
                             <span className="price">$52</span>
@@ -83,6 +85,7 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Meatball Hoagie</h3>
                             <p>
+                            Homemade meatballs spread out on a buttered bun topped with our savory marinara sauce with provolone cheese to bring you a classic taste that you will love. <br /><br />
                             homemade meatballs, provolone cheese, marinara, hoagie bun, hand cut fries
                             </p>
                             <span className="price">$17</span>
@@ -106,7 +109,8 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Alfredo</h3>
                             <p>
-                            alfredo sauce, parmesan cheese | option of adding chicken breast for + $70 | option of adding shrimp for + $90 | option of adding sausage for + $70
+                            Classic alfredo pasta with the freshly made alfredo sauce and the option of your choice of juicy and tender protein with parmesan cheese lightly sprinkled on top. <br /><br />
+                            alfredo sauce, parmesan cheese | option of adding chicken breast for + $70 | option of adding shrimp for + $90 | option of adding sausage for + $7
                             </p>
                             <span className="price">$16</span>
                           </div>
@@ -122,6 +126,7 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Chicken Parmesan Sandwich</h3>
                             <p>
+                            Soft breaded chicken breast marinated in our homemade marinara and a beautiful layer of provolone cheese, lettuce, tomato, and a wonderful bun that melts in your mouth. Served with a side of our hand cut fries.<br /><br />
                             Chicken breast, Parmesan herb crust, red sauce, provolone, lemon parmesan aioli, romaine, red onion, brioche bun, hand cut fries
                             </p>
                             <span className="price">$16</span>
@@ -138,6 +143,7 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Chicken Piccata</h3>
                             <p>
+                            Wonderfully seasoned chicken breast overtop of magically soft angel hair with a creamy sauce drizzled on it, with capers topping it off.<br /><br />
                             Chicken breast, angel hair, lemon, capers, parmesan reggiano
                             </p>
                             <span className="price">$25</span>
@@ -161,7 +167,8 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Alfredo</h3>
                             <p>
-                            alfredo sauce, parmesan cheese | option of adding chicken breast for + $70 | option of adding shrimp for + $90 | option of adding sausage for + $70
+                            Classic alfredo pasta with the freshly made alfredo sauce and the option of your choice of juicy and tender protein with parmesan cheese lightly sprinkled on top. <br /><br />
+                            alfredo sauce, parmesan cheese | option of adding sausage for + $7
                             </p>
                             <span className="price">$22</span>
                           </div>
@@ -177,6 +184,7 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Bolognese</h3>
                             <p>
+                            A rich beef, veal and pork sauce complimented by the soft pasta that combines to bring you a mouthwatering aroma. <br /><br />
                             Pasta, Italian meat sauce, beef, pork, veal
                             </p>
                             <span className="price">$20</span>
@@ -193,6 +201,7 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Italian Grilled Cheese</h3>
                             <p>
+                            Buttered toasted bread with a melted assortment of cheese with caramelized onions and tender slices of ham with pesto to round out the taste. Served with a side of our hand cut fries and a side of marinara. <br /><br />
                             pesto, provolone, pepper jack, caramelized onions, capicola ham, focaccia bread, hand cut fries, side of marinara
                             </p>
                             <span className="price">$16</span>
@@ -214,9 +223,10 @@ function MenuSection3() {
                             <img src="assets/images/desert1.png" alt="img" />
                           </div>
                           <div className="dish_text">
-                            <h3>Alfredo</h3>
+                          <h3>Ahi Tuna Salad</h3>
                             <p>
-                            alfredo sauce, parmesan cheese | option of adding chicken breast for + $70 | option of adding shrimp for + $90 | option of adding sausage for + $70
+                            Fresh, never frozen Ahi Tuna over a bed of spinach and cucumbers topped with the house balsamic dressing.<br /><br />
+                            Tuna, cucumbers, spinach, and balsamic dressing
                             </p>
                             <span className="price">$16</span>
                           </div>
@@ -230,11 +240,13 @@ function MenuSection3() {
                             <img src="assets/images/desert2.png" alt="img" />
                           </div>
                           <div className="dish_text">
-                            <h3>Blackened Scallop Risotto</h3>
+                          <h3>Alfredo</h3>
                             <p>
-                            scallops, sweet potato risotto
+                            Classic alfredo pasta with the freshly made alfredo sauce and the option of your choice of juicy and tender protein with parmesan cheese lightly sprinkled on top. <br /><br />
+
+                            alfredo sauce, parmesan cheese | option of adding shrimp for + $9
                             </p>
-                            <span className="price">$35</span>
+                            <span className="price">$15</span>
                           </div>
                         </div>
                       </div>
@@ -248,6 +260,7 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Grouper</h3>
                             <p>
+                            A creamy crawfish sauce that soaks into the grouper and combines the dryness of the polenta to provide a perfectly rounded taste. <br /><br />
                             Grouper, crawfish cream sauce, Polenta
                             </p>
                             <span className="price">$35</span>
@@ -264,6 +277,7 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Mussels</h3>
                             <p>
+                            Mussels presented sizzling in a garlic sauce that fits perfectly with the texture and taste of the mussels and vegetables. <br /><br />
                             mussels, white wine and garlic sauce, lemon, tomatoes
                             </p>
                             <span className="price">$22</span>
@@ -280,6 +294,7 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Savory Salmon</h3>
                             <p>
+                            Freshly caught salmon that is seared in an oil, garlic and butter sauce. Served with freshly cut zucchini and green beans, and topped off with a rich butter garnish.<br /><br />
                             Salmon, green beans, zucchini, butter
                             </p>
                             <span className="price">$29</span>
@@ -296,6 +311,7 @@ function MenuSection3() {
                           <div className="dish_text">
                             <h3>Scallop Risotto</h3>
                             <p>
+                            A delectable selection of scallops served with a creamy herb risotto and a pesto garnish.<br /><br />
                             scallops, herb risotto
                             </p>
                             <span className="price">$18</span>
