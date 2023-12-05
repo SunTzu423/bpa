@@ -17,7 +17,7 @@ function Chef() {
                 <img className="radius_img img-fluid" src={chefimg01} alt="img" />
               </div>
               <h3 className="chef_name">
-                <span>master chef</span> Jammie Waters
+                <span>master chef</span> Adrian Wolfe
               </h3>
             </div>
             <div className="col-md-6">
@@ -34,14 +34,10 @@ function Chef() {
                     a master chef with 25 <br /> years of experience
                   </h2>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and typeset
-                    ting industry lorem Ipsum has the industrys standard my text
-                    ever since the when an unknown printer.
+                  Adrian Wolfe is a culinary maestro known for transforming ordinary ingredients into extraordinary masterpieces. With a career spanning decades and experiences in top kitchens worldwide, Chef Wolfe's innovative approach and meticulous attention to detail set him apart. His skillful blend of traditional techniques and avant-garde flair results in dishes that showcase both technical prowess and a deep understanding of ingredients. From perfectly seared meats to intricately plated desserts, Adrian Wolfe's creations are a testament to his passion and unwavering commitment to the art of gastronomy.
                   </p>
                 </div>
-                <Link to="/ourchef" className="btn btn_text">
-                  meet our team <i className="icofont-long-arrow-right" />
-                </Link>
+                
               </div>
             </div>
           </div>
