@@ -61,11 +61,7 @@ function Main() {
                     ABOUT US
                   </Link>
                 </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/reservation" onClick={handleMenuItemClick}>
-                    reservation
-                  </Link>
-                </li>
+
                 <li className="nav-item">
                   <Link className="nav-link" to="/review" onClick={handleMenuItemClick}>
                     reviews
@@ -73,7 +69,7 @@ function Main() {
                 </li>
                 <li className="nav-item">
                   <Link className="nav-link" to="/contact" onClick={handleMenuItemClick}>
-                    Contact
+                    Contact Us
                   </Link>
                 </li>
                 <li className="nav-item contact_number">
@@ -83,7 +79,7 @@ function Main() {
                 </li>
                 <li className="d-lg-none">
                   <Link to="/reservation" className="btn btn_primary" onClick={handleMenuItemClick}>
-                    FIND A TABLE
+                    Book A TABLE
                   </Link>
                 </li>
                 <li className="nav-item">
@@ -96,7 +92,7 @@ function Main() {
 
             <div className="action_bar">
               <Link to="/reservation" className="btn btn_primary" onClick={handleMenuItemClick}>
-                FIND A TABLE
+                Book A TABLE
               </Link>
               <div className="bar" onClick={() => setNav(true)}>
                 <span></span>
