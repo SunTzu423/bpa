@@ -110,7 +110,7 @@ function MenuSection3() {
                             <h3>Alfredo</h3>
                             <p>
                             Classic alfredo pasta with the freshly made alfredo sauce and the option of your choice of juicy and tender protein with parmesan cheese lightly sprinkled on top. <br /><br />
-                            alfredo sauce, parmesan cheese | option of adding chicken breast for + $70 | option of adding shrimp for + $90 | option of adding sausage for + $7
+                            alfredo sauce, parmesan cheese | option of adding chicken breast for + $7
                             </p>
                             <span className="price">$16</span>
                           </div>
