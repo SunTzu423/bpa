@@ -67,11 +67,6 @@ function Main() {
                     reviews
                   </Link>
                 </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/contact" onClick={handleMenuItemClick}>
-                    Contact Us
-                  </Link>
-                </li>
                 <li className="nav-item contact_number">
                   <Link className="nav-link" to="tel:+18001234578">
                     <span>book a table :</span> +1 614-525-1000

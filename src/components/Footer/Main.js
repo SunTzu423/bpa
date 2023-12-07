@@ -15,11 +15,10 @@ function Main() {
                 <p>
                 4565 Columbus Pike, <br />
                 Delaware, OH <br />
-                  Booking : <Link to="tel:+88-123-123456">614-525-1000</Link>
+                  Booking : <Link to="tel:+88-123-123456">614-525-1000</Link><br />
+                  Email Us : <a href="mailto:gamedaygrillbpa@gmail.com">gamedaygrillbpa@gmail.com</a>
                 </p>
-                <Link to="/contact" className="btn_text">
-                  get directions <i className="icofont-long-arrow-right" />
-                </Link>
+                
               </div>
               <div className="col-md-5 text-md-right timing_block">
                 <p>
