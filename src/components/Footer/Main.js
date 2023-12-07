@@ -48,9 +48,6 @@ function Main() {
                     <Link to="/about">About us</Link>
                   </li>
                   <li>
-                    <Link to="/ourchef">Our chefs</Link>
-                  </li>
-                  <li>
                     <Link to="/contact">Contact</Link><br></br>
                   </li>
                 </ul>
