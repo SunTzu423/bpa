@@ -48,7 +48,7 @@ function Main() {
                     <Link to="/about">About us</Link>
                   </li>
                   <li>
-                    <Link to="/contact">Contact</Link><br></br>
+                    <Link to="/review">Reviews</Link><br></br>
                   </li>
                 </ul>
               </div>
