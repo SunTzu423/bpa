@@ -36,7 +36,7 @@ function Journey() {
                   </div>
                   <h3>Free home delivery</h3>
                   <p>
-                    On orders over $35 the delivery is on us.
+                  For orders over $35 the delivery is on us.
                   </p>
                 </div>
               </div>
