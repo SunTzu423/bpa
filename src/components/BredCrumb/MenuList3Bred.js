@@ -10,7 +10,7 @@ function MenuList3Bred() {
                             <img src="assets/images/title_icon.png" alt="img" />
                         </span>
                         <span className="sub_text">Our menu</span>
-                        <h2>delicious tasty dishes in Ohio</h2>
+                        <h2>delicious tasty dishes in ohio</h2>
                     </div>
                 </div>
             </section>
