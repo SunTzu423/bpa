@@ -24,9 +24,8 @@ function Journey() {
                   </div>
                   <h3>Prime location</h3>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and typeset ting
-                    industry lorem Ipsum has been the industrys standard my text ever
-                    sincestandard.
+                    Outstanding scenery can be seen while you wait for your meal. Designed to take your breath away
+                    as soon as you walk into our restaurant.
                   </p>
                 </div>
               </div>
@@ -37,9 +36,7 @@ function Journey() {
                   </div>
                   <h3>Free home delivery</h3>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and typeset ting
-                    industry lorem Ipsum has been the industrys standard my text ever
-                    sincestandard.
+                  For orders over $35 the delivery is on us.
                   </p>
                 </div>
               </div>
@@ -50,9 +47,8 @@ function Journey() {
                   </div>
                   <h3>premium services</h3>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and typeset ting
-                    industry lorem Ipsum has been the industrys standard my text ever
-                    sincestandard.
+                    Our team at Game Day Grill is dedicated to giving you the best ordering
+                    and eating experience possible.
                   </p>
                 </div>
               </div>

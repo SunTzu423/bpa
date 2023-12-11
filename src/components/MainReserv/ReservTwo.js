@@ -4,13 +4,13 @@ import { Link } from 'react-router-dom'
 function ReservTwo() {
   return (
     <>
-      <section className="bredcrumb_section reservationpage_bg">
+      <section className="bredcrumb_section resarvation_form reservationpage_1_bg">
         <div className="container">
           <div className="section_title text-center" data-aos="fade-up" data-aos-duration={1500} >
             <span className="icon aos-init aos-animate" data-aos="fade-down" data-aos-duration={1500} >
               <img src="assets/images/calendar.png" alt="img" />
             </span>
-            <span className="sub_text">Customer Checkout</span>
+            <span className="sub_text">Customer Checkout</span><br />
             <h2>Game Day Grill, Delaware, Ohio</h2>
           </div>
           <div className="row">
