@@ -15,7 +15,7 @@ function Main() {
 
     return (
         <div className='page_wrapper'>
-            <Header />
+            <Header/>
             <ReservTwo/>
             <Footer />
         </div>
