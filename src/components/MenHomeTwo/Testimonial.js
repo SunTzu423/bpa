@@ -93,10 +93,10 @@ function Testimonial() {
                                             </span>
                                         </div>
                                         <h2>
-It made me stop my One Piece addiction. I picked it back up afterwards, but it was a good distraction.
+                                        This website is amazing! It is very easy to navigate in, and the design within the website adds a lot to to the feeling of the restaurant.
                                         </h2>
                                         <h3>
-                                            Kameron Carter,{" "}
+                                            Kenneth Adams,{" "}
                                             <span className="designation">via Trip Advisor</span>
                                         </h3>
                                         <span className="quote text-right d-block">”</span>

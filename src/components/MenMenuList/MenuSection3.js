@@ -46,7 +46,24 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/dish_02.png" alt="img" />
+                            <img src="../../assets/images/abtgallery_01.png" alt="img" />
+                          </div>
+                          <div className="dish_text">
+                            <h3>Angus Beef Burger</h3>
+                            <p>
+                            Fresh beef that comes seasoned to your desire and melted cheese, served with handcut fries. <br /><br />
+                            Half pound of angus beef, lettuce, tomato, burger bun, house aioli, hand cut fries
+                            </p>
+                            <span className="price">$16</span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  <div className="col-lg-6 col-md-12">
+                      <div className="dish_box">
+                        <div className="dish_info">
+                          <div className="dish_img">
+                            <img src="../../assets/images/abtgallery_12.png" alt="img" />
                           </div>
                           <div className="dish_text">
                             <h3>Bolognese</h3>
@@ -104,7 +121,7 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/dish_09.png" alt="img" />
+                            <img src="../../assets/images/abtgallery_01.png" alt="img" />
                           </div>
                           <div className="dish_text">
                             <h3>Chicken Alfredo</h3>
@@ -138,7 +155,7 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/dish_07.png" alt="img" />
+                            <img src="src/assets/images/dish_07.png" alt="img" />
                           </div>
                           <div className="dish_text">
                             <h3>Chicken Piccata</h3>
@@ -162,7 +179,7 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/dish_08.png" alt="img" />
+                            <img src="../../assets/images/abtgallery_04.png" alt="img" />
                           </div>
                           <div className="dish_text">
                             <h3>Sausage Alfredo</h3>
@@ -255,7 +272,7 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/dish_05.png" alt="img" />
+                            <img src="assets/images/abtgallery_08.png" alt="img" />
                           </div>
                           <div className="dish_text">
                             <h3>Grouper</h3>
