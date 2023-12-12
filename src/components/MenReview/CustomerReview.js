@@ -11,7 +11,7 @@ const reviewData = [
     image: Review03,
     starCount: 5,
     text: "Howdy, y'all! Game Day Grill's website is a solid 5-star winner. It's as slick as grease on a pig, easy to navigate, and the menu's a heavenly feast. The food's a flavor explosion – burgers that'll make your taste buds dance. Online ordering is smoother than a buttered biscuit. It's a fine website, 5 stars ain't enough. Mosey on over pronto for some mighty fine eats! Yeehaw!",
-    name: "Levi Stover",
+    name: "Levi Benjamin Scott Stover",
   },
   {
     image: Review04,
@@ -40,7 +40,7 @@ const reviewData = [
   {
     image: Review07,
     starCount: 5,
-    text: "Amazing ambience, great food, very courteous staff. Overall very good experience. Best place to have real steak food.",
+    text: "When I was at Game Day Grill I partook in an enchanting experience, indulged in delectable cuisine, and experience exceptional service. An outstanding steak destination—unequivocally the best!",
     name: "Leon Milliner",
   },
 ];

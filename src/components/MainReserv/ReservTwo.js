@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-
+ 
 function ReservTwo() {
   return (
     <>
@@ -31,10 +31,10 @@ function ReservTwo() {
                           <div className="row">
                             <div className="col-md-6">
                               <div className="form-group">
-                                <input type="text" className="form-control" placeholder="Email" required/>
+                                <input type="text" className="form-control" placeholder="First Name" required/>
                               </div>
                               <div className="form-group">
-                                <input type="text" className="form-control" placeholder="Last Name" required/>
+                                <input type="email" className="form-control" placeholder="Email" required/>
                               </div>
                               <div className="form-group">
                                 <input type="text" className="form-control" placeholder="City" required/>
@@ -42,7 +42,7 @@ function ReservTwo() {
                             </div>
                             <div className="col-md-6">
                               <div className="form-group">
-                                <input type="text" className="form-control" placeholder="First Name" required/>
+                                <input type="text" className="form-control" placeholder="Last Name" required/>
                               </div>
                               <div className="form-group">
                                 <input type="text" className="form-control" placeholder="Address" required/>
@@ -135,5 +135,5 @@ function ReservTwo() {
     </>
   )
 }
-
+ 
 export default ReservTwo
