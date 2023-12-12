@@ -63,7 +63,7 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="../../assets/images/abtgallery_12.png" alt="img" />
+                            <img src="../../assets/images/desert4.png" alt="img" />
                           </div>
                           <div className="dish_text">
                             <h3>Bolognese</h3>
@@ -80,7 +80,7 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/dish_01.png" alt="img" />
+                            <img src="assets/images/desert1.png" alt="img" />
                           </div>
                           <div className="dish_text">
                             <h3>Filet Mignon</h3>
@@ -110,6 +110,23 @@ function MenuSection3() {
                         </div>
                       </div>
                     </div>
+                    <div className="col-lg-6 col-md-12">
+                      <div className="dish_box">
+                        <div className="dish_info">
+                          <div className="dish_img">
+                            <img src="../../assets/images/dish_09.png" alt="img" />
+                          </div>
+                          <div className="dish_text">
+                            <h3>NY Strip</h3>
+                            <p>
+                            A fresh cut of steak seared to your liking presented over top thick and creamy mashed potatoes that are prepared with garlic and parmesan cheese.<br /><br />
+                            Steak, garlic parmesan mashed potatoes, asparagus
+                            </p>
+                            <span className="price">$45</span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -121,49 +138,15 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="../../assets/images/abtgallery_01.png" alt="img" />
+                            <img src="../../assets/images/abtgallery_07.png" alt="img" />
                           </div>
                           <div className="dish_text">
-                            <h3>Chicken Alfredo</h3>
+                            <h3>Grilled Chicken Sandwich</h3>
                             <p>
-                            Classic alfredo pasta with the freshly made alfredo sauce and the option of your choice of juicy and tender protein with parmesan cheese lightly sprinkled on top. <br /><br />
-                            alfredo sauce, parmesan cheese | option of adding chicken breast for + $7
-                            </p>
-                            <span className="price">$22</span>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  <div className="col-lg-6 col-md-12">
-                      <div className="dish_box">
-                        <div className="dish_info">
-                          <div className="dish_img">
-                            <img src="assets/images/dish_08.png" alt="img" />
-                          </div>
-                          <div className="dish_text">
-                            <h3>Chicken Parmesan Sandwich</h3>
-                            <p>
-                            Soft breaded chicken breast marinated in our homemade marinara and a beautiful layer of provolone cheese, lettuce, tomato, and a wonderful bun that melts in your mouth. Served with a side of our hand cut fries.<br /><br />
-                            Chicken breast, Parmesan herb crust, red sauce, provolone, lemon parmesan aioli, romaine, red onion, brioche bun, hand cut fries
+                            tender grilled chicken served in a buttered bun with tomatoes, lettuce and onion. Served with handcut fries and your choice of sauce. <br /><br />
+                            Chicken, burger bun, fries, lettuce, tomatoes, onion
                             </p>
                             <span className="price">$16</span>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="col-lg-6 col-md-12">
-                      <div className="dish_box">
-                        <div className="dish_info">
-                          <div className="dish_img">
-                            <img src="src/assets/images/dish_07.png" alt="img" />
-                          </div>
-                          <div className="dish_text">
-                            <h3>Chicken Piccata</h3>
-                            <p>
-                            Wonderfully seasoned chicken breast overtop of magically soft angel hair with a creamy sauce drizzled on it, with capers topping it off.<br /><br />
-                            Chicken breast, angel hair, lemon, capers, parmesan reggiano
-                            </p>
-                            <span className="price">$25</span>
                           </div>
                         </div>
                       </div>
@@ -179,15 +162,15 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="../../assets/images/abtgallery_04.png" alt="img" />
+                            <img src="../../assets/images/dish_01.png" alt="img" />
                           </div>
                           <div className="dish_text">
-                            <h3>Sausage Alfredo</h3>
+                            <h3>Short Rib</h3>
                             <p>
-                            Classic alfredo pasta with the freshly made alfredo sauce and the option of your choice of juicy and tender protein with parmesan cheese lightly sprinkled on top. <br /><br />
-                            alfredo sauce, parmesan cheese | option of adding sausage for + $7
+                            Juicy cuts of pork that are atop a pillow of mashed potatoes and with a pork gravy topping of the eperience. <br /><br />
+                            Pork, pork gravy, mashed potatoes, parsley
                             </p>
-                            <span className="price">$22</span>
+                            <span className="price">$32</span>
                           </div>
                         </div>
                       </div>
@@ -196,7 +179,7 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/dish_07.png" alt="img" />
+                            <img src="assets/images/desert4.png" alt="img" />
                           </div>
                           <div className="dish_text">
                             <h3>Bolognese</h3>
@@ -213,7 +196,7 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/dish_09.png" alt="img" />
+                            <img src="assets/images/dish_04.png" alt="img" />
                           </div>
                           <div className="dish_text">
                             <h3>Italian Grilled Cheese</h3>
@@ -237,7 +220,7 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/desert1.png" alt="img" />
+                            <img src="assets/images/dish_02.png" alt="img" />
                           </div>
                           <div className="dish_text">
                           <h3>Ahi Tuna Salad</h3>
@@ -254,16 +237,16 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/desert2.png" alt="img" />
+                            <img src="assets/images/dish_05.png" alt="img" />
                           </div>
                           <div className="dish_text">
-                          <h3>Shrimp Alfredo</h3>
+                          <h3>Swordfish</h3>
                             <p>
-                            Classic alfredo pasta with the freshly made alfredo sauce and the option of your choice of juicy and tender protein with parmesan cheese lightly sprinkled on top. <br /><br />
+                            Tender, melt in your mouth, swordfish freshly caught. topped with a sweet yet slightly spicy sauce served on a bed of steamed rice with asparagus  <br /><br />
 
-                            alfredo sauce, parmesan cheese | option of adding shrimp for + $9
+                            Swordfish, pineapple, onion, rice, asparagus, red bell pepper, ghost pepper.
                             </p>
-                            <span className="price">$24</span>
+                            <span className="price">$30</span>
                           </div>
                         </div>
                       </div>
@@ -272,7 +255,7 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/abtgallery_08.png" alt="img" />
+                            <img src="../../assets/images/desert3.png" alt="img" />
                           </div>
                           <div className="dish_text">
                             <h3>Grouper</h3>
@@ -289,7 +272,7 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/dish_06.png" alt="img" />
+                            <img src="assets/images/dish_08.png" alt="img" />
                           </div>
                           <div className="dish_text">
                             <h3>Mussels</h3>
@@ -306,7 +289,7 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/desert4.png" alt="img" />
+                            <img src="assets/images/desert2.png" alt="img" />
                           </div>
                           <div className="dish_text">
                             <h3>Savory Salmon</h3>
@@ -323,7 +306,7 @@ function MenuSection3() {
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
-                            <img src="assets/images/desert3.png" alt="img" />
+                            <img src="assets/images/abtgallery_02.png" alt="img" />
                           </div>
                           <div className="dish_text">
                             <h3>Scallop Risotto</h3>
