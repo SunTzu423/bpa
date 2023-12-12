@@ -40,7 +40,7 @@ const reviewData = [
   {
     image: Review07,
     starCount: 5,
-    text: "Amazing ambience, great food, very courteous staff. Overall very good experience. Best place to have real steak food.",
+    text: "When I was at Game Day Grill I partook in an enchanting experience, indulged in delectable cuisine, and experience exceptional service. An outstanding steak destination—unequivocally the best!",
     name: "Leon Milliner",
   },
 ];
