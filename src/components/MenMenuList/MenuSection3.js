@@ -86,7 +86,7 @@ function MenuSection3() {
                             <h3>Filet Mignon</h3>
                             <p>
                             Juicy cut of beef seared to perfection complimented by rich garlic parmesan mashed potatoes and fabulous side of green beans.<br /><br />
-                            steak, garlic parmesan mashed potatoes, green beans
+                            Steak, garlic parmesan mashed potatoes, green beans
                             </p>
                             <span className="price">$52</span>
                           </div>
@@ -103,7 +103,7 @@ function MenuSection3() {
                             <h3>Meatball Hoagie</h3>
                             <p>
                             Homemade meatballs spread out on a buttered bun topped with our savory marinara sauce with provolone cheese to bring you a classic taste that you will love. <br /><br />
-                            homemade meatballs, provolone cheese, marinara, hoagie bun, hand cut fries
+                            Homemade meatballs, provolone cheese, marinara, hoagie bun, hand cut fries
                             </p>
                             <span className="price">$17</span>
                           </div>
@@ -202,7 +202,7 @@ function MenuSection3() {
                             <h3>Italian Grilled Cheese</h3>
                             <p>
                             Buttered toasted bread with a melted assortment of cheese with caramelized onions and tender slices of ham with pesto to round out the taste. Served with a side of our hand cut fries and a side of marinara. <br /><br />
-                            pesto, provolone, pepper jack, caramelized onions, capicola ham, focaccia bread, hand cut fries, side of marinara
+                            Pesto, provolone, pepper jack, caramelized onions, capicola ham, focaccia bread, hand cut fries, side of marinara
                             </p>
                             <span className="price">$16</span>
                           </div>
@@ -226,7 +226,7 @@ function MenuSection3() {
                           <h3>Ahi Tuna Salad</h3>
                             <p>
                             Fresh, never frozen Ahi Tuna over a bed of spinach and cucumbers topped with the house balsamic dressing.<br /><br />
-                            Tuna, cucumbers, spinach, and balsamic dressing
+                            Tuna, cucumbers, spinach, balsamic dressing
                             </p>
                             <span className="price">$16</span>
                           </div>
@@ -278,7 +278,7 @@ function MenuSection3() {
                             <h3>Mussels</h3>
                             <p>
                             Mussels presented sizzling in a garlic sauce that fits perfectly with the texture and taste of the mussels and vegetables. <br /><br />
-                            mussels, white wine and garlic sauce, lemon, tomatoes
+                            Mussels, white wine and garlic sauce, lemon, tomatoes
                             </p>
                             <span className="price">$22</span>
                           </div>
@@ -314,7 +314,7 @@ function MenuSection3() {
                             A delectable selection of scallops served with a creamy herb risotto and a pesto garnish.<br /><br />
                             scallops, herb risotto
                             </p>
-                            <span className="price">$18</span>
+                            <span className="price">$25</span>
                           </div>
                         </div>
                       </div>
