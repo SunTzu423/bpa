@@ -14,13 +14,13 @@ function MenuSection3() {
             <li className="nav-item">
               <Link className={`nav-link ${tabMenu.a && "active"}`}
                 onClick={() => tabActive({ a: true })} id="beef-tab" data-toggle="tab" to="#starters" role="tab" aria-controls="starters" aria-selected="true" >
-                Chicken
+                Beef
               </Link>
             </li>
             <li className="nav-item">
               <Link className={`nav-link ${tabMenu.b && "active"}`}
                 onClick={() => tabActive({ b: true })} id="chicken-tab" data-toggle="tab" to="#steaks" role="tab" aria-controls="steaks" aria-selected="false" >
-                Beef
+                Chicken
               </Link>
             </li>
             <li className="nav-item">
@@ -40,9 +40,33 @@ function MenuSection3() {
           <div className="tab-content" id="myTabContent" data-aos="fade-up" data-aos-duration={1500} >
 
               <div className={`tab-pane fade ${tabMenu.b && "show active"}`} id="beef" role="tabpanel" aria-labelledby="beef-tab" >
-                <div className="container">
+              <div className="container">
                   <div className="row">
                   <div className="col-lg-6 col-md-12">
+                      <div className="dish_box">
+                        <div className="dish_info">
+                          <div className="dish_img">
+                            <img src="../../assets/images/abtgallery_07.png" alt="img" />
+                          </div>
+                          <div className="dish_text">
+                            <h3>Grilled Chicken Sandwich</h3>
+                            <p>
+                            tender grilled chicken served in a buttered bun with tomatoes, lettuce and onion. Served with handcut fries and your choice of sauce. <br /><br />
+                            Chicken, burger bun, fries, lettuce, tomatoes, onion
+                            </p>
+                            <span className="price">$16</span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className={`tab-pane fade ${tabMenu.a && "show active"}`} id="chicken" role="tabpanel" aria-labelledby="chicken-tab" >
+              <div className="container">
+                  <div className="row">
+                    <div className="col-lg-6 col-md-12">
                       <div className="dish_box">
                         <div className="dish_info">
                           <div className="dish_img">
@@ -88,7 +112,9 @@ function MenuSection3() {
                             Juicy cut of beef seared to perfection complimented by rich garlic parmesan mashed potatoes and fabulous side of green beans.<br /><br />
                             Steak, garlic parmesan mashed potatoes, green beans
                             </p>
-                            <span className="price">$52</span>
+                            <p className="price">
+                                <span className="new_price">$26.00</span>
+                            </p>
                           </div>
                         </div>
                       </div>
@@ -123,30 +149,6 @@ function MenuSection3() {
                             Steak, garlic parmesan mashed potatoes, asparagus
                             </p>
                             <span className="price">$45</span>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className={`tab-pane fade ${tabMenu.a && "show active"}`} id="chicken" role="tabpanel" aria-labelledby="chicken-tab" >
-                <div className="container">
-                  <div className="row">
-                  <div className="col-lg-6 col-md-12">
-                      <div className="dish_box">
-                        <div className="dish_info">
-                          <div className="dish_img">
-                            <img src="../../assets/images/abtgallery_07.png" alt="img" />
-                          </div>
-                          <div className="dish_text">
-                            <h3>Grilled Chicken Sandwich</h3>
-                            <p>
-                            tender grilled chicken served in a buttered bun with tomatoes, lettuce and onion. Served with handcut fries and your choice of sauce. <br /><br />
-                            Chicken, burger bun, fries, lettuce, tomatoes, onion
-                            </p>
-                            <span className="price">$16</span>
                           </div>
                         </div>
                       </div>

@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import DishImg from '../../assets/images/abtgallery_04.png'
+import DishImg from '../../assets/images/desert1.png'
 
 function DiscountSection() {
     return (
@@ -26,7 +26,7 @@ function DiscountSection() {
                                             <span className="new_price">$26.00</span>
                                             <span className="old_price">$52.00</span>
                                         </p>
-                                        <Link to="/MenuList " className="btn btn_primary">
+                                        <Link to="/MenuList#steaks " className="btn btn_primary">
                                             explore more
                                         </Link>
                                     </div>
