@@ -13,19 +13,20 @@ function Main() {
             <div className="row py_50">
               <div className="col-md-7 direction_block">
                 <p>
-                4565 Columbus Pike, <br />
-                Delaware, OH <br />
-                  Booking : <Link to="tel:+88-123-123456">614-525-1000</Link><br />
-                  Email Us : <a href="mailto:gamedaygrillbpa@gmail.com">gamedaygrillbpa@gmail.com</a>
+                  308 Negra Arroyo Lane, <br />
+                  Albuquerque, NM <br />
+                  Booking : <Link to="tel:+88-123-123456">614-525-1000</Link>
                 </p>
-                
+                <Link to="/contact" className="btn_text">
+                  get directions <i className="icofont-long-arrow-right" />
+                </Link>
               </div>
               <div className="col-md-5 text-md-right timing_block">
                 <p>
-                  Monday - Saturday  : 11AM - 10PM <br />
-                  Sunday : 12PM - 9PM<br></br>
+                  Monday - Friday : 11AM - 10PM <br />
+                  Saturday - Sunday : 10AM - 11PM<br></br>
                 </p>
-                <Link to="/reservation" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(false)}>
+                <Link to="/reservation1" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(false)}>
                   book a table
                 </Link>
               </div>
@@ -37,24 +38,33 @@ function Main() {
               <div className="col-md-12">
                 <ul className="links d-flex justify-content-center">
                   <li>
-                    <Link to="/home2">Home</Link>
+                    <Link to="/">Home</Link>
                   </li>
 
                   <li>
-                    <Link to="/menulist">Menu </Link>
+                    <Link to="/menulist3">Menu </Link>
                   </li>
 
                   <li>
                     <Link to="/about">About us</Link>
                   </li>
                   <li>
-                    <Link to="/review">Reviews</Link><br></br>
+                    <Link to="/ourchef">Our chefs</Link>
+                  </li>
+                  <li>
+                    <Link to="/contact">Contact</Link>
                   </li>
                 </ul>
               </div>
             </div>
           </div>
-         
+          <div className="row">
+            <div className="col-md-12 copy_right text-center">
+              <p>
+                © 2023 Game Day Grill. All Rights Reserved 
+              </p>
+            </div>
+          </div>
         </div>
         <div className="go_top" id="Gotop">
           <span>
