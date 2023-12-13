@@ -1,6 +1,7 @@
 import './App.css';
 import { BrowserRouter as Router } from "react-router-dom"
 import Routing from './routes';
+import React  from 'react';
 import '../src/assets/css/icofont.min.css'
 import '../src/assets/css/animate.min.css'
 import '../src/assets/css/owl.carousel.min.css'
