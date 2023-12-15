@@ -7,7 +7,7 @@ function ReviewBred() {
                 <div className="container">
                     <div className="section_title text-center" data-aos="fade-up" data-aos-duration={1500} >
                         <span className="sub_text">Customer reviews</span>
-                        <h2>sweet words of our dishes</h2>
+                        <h2>sweet words of our Customers</h2>
                     </div>
                 </div>
             </section>

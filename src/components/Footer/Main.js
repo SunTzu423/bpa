@@ -13,20 +13,17 @@ function Main() {
             <div className="row py_50">
               <div className="col-md-7 direction_block">
                 <p>
-                  308 Negra Arroyo Lane, <br />
-                  Albuquerque, NM <br />
+                  4565 Columbus Pike, <br />
+                  Delaware, OH <br />
                   Booking : <Link to="tel:+88-123-123456">614-525-1000</Link>
                 </p>
-                <Link to="/contact" className="btn_text">
-                  get directions <i className="icofont-long-arrow-right" />
-                </Link>
               </div>
               <div className="col-md-5 text-md-right timing_block">
                 <p>
                   Monday - Friday : 11AM - 10PM <br />
                   Saturday - Sunday : 10AM - 11PM<br></br>
                 </p>
-                <Link to="/reservation1" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(false)}>
+                <Link to="/reservation" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(false)}>
                   book a table
                 </Link>
               </div>
@@ -42,17 +39,14 @@ function Main() {
                   </li>
 
                   <li>
-                    <Link to="/menulist3">Menu </Link>
+                    <Link to="/menulist">Menu </Link>
                   </li>
 
                   <li>
                     <Link to="/about">About us</Link>
                   </li>
                   <li>
-                    <Link to="/ourchef">Our chefs</Link>
-                  </li>
-                  <li>
-                    <Link to="/contact">Contact</Link>
+                    <Link to="/about">Our chef</Link>
                   </li>
                 </ul>
               </div>

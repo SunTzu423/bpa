@@ -70,7 +70,7 @@ function VideoTwo() {
                                 </span>
                                 <div className="text">
                                     <h3>Locate Us</h3>
-                                    <p>308 Negra Arroyo Lane, Albuquerque, NM</p>
+                                    <p>4565 Columbus Pike, Delaware, OH</p>
                                 </div>
                             </li>
                             <li>

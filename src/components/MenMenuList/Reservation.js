@@ -72,8 +72,8 @@ function Reservation() {
                 <li>
                   <h3>Location</h3>
                   <p>
-                  308 Negra Arroyo Lane<br />
-                   Albuquerque, NM 
+                  4565 Columbus Pike,<br />
+                  Delaware, OH 
                   </p>
                 </li>
                 <li>
