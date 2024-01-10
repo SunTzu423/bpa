@@ -10,6 +10,7 @@ function Main() {
   const [Home, setHome] = useState();
   const [menuOpen, setMenuOpen] = useState(false);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+  const [ytshow, setytShow] = useState(false);
 
 
   const toggleMenu = () => {
@@ -33,7 +34,7 @@ function Main() {
       <header className={`fixed ${menuOpen ? 'menu-open' : ''}`}>
         <div className="container-fluid" style={{backgroundColor:'#191919'}}>
           <nav className="navbar navbar-expand-lg">
-            <Link className="navbar-brand" to="/">
+            <Link className="navbar-brand" to="/" onClick={() => window.scrollTo(0, 0)}>
               <img src={logo} alt="image" />
             </Link>
             
@@ -47,23 +48,24 @@ function Main() {
             <div className={`collapse navbar-collapse ${menuOpen ? 'show' : ''}`} id="navbarSupportedContent">
               <ul className="navbar-nav ml-auto">
                 <li className="nav-item">
-                  <Link className="nav-link" to="/" onClick={handleMenuItemClick}>
+                <Link className="nav-link" to="/" onClick={() => { handleMenuItemClick(); window.scrollTo(0, 0); }}>
                     Home
-                  </Link>
+                </Link>
+
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/menulist" onClick={handleMenuItemClick}>
+                  <Link className="nav-link" to="/menulist" onClick={() => { handleMenuItemClick(); window.scrollTo(0, 0); }}>
                     MENU
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/about" onClick={handleMenuItemClick}>
+                  <Link className="nav-link" to="/about" onClick={() => { handleMenuItemClick(); window.scrollTo(0, 0); }}>
                     ABOUT US
                   </Link>
                 </li>
 
                 <li className="nav-item">
-                  <Link className="nav-link" to="/review" onClick={handleMenuItemClick}>
+                  <Link className="nav-link" to="/review" onClick={() => { handleMenuItemClick(); window.scrollTo(0, 0); }}>
                     reviews
                   </Link>
                 </li>
@@ -73,12 +75,12 @@ function Main() {
                   </Link>
                 </li>
                 <li className="d-lg-none">
-                  <Link to="/reservation" className="btn btn_primary" onClick={handleMenuItemClick}>
+                  <Link to="/reservation" className="btn btn_primary" onClick={() => { handleMenuItemClick(); window.scrollTo(0, 0); }}>
                     Book A TABLE
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="navbar-brand" to="/cart">
+                  <Link className="navbar-brand" to="/cart" onClick={() => {window.scrollTo(0, 0); }}>
                   <img src={cart} alt="image" />
             </Link>
                 </li>
@@ -86,7 +88,7 @@ function Main() {
             </div>
 
             <div className="action_bar">
-              <Link to="/reservation" className="btn btn_primary" onClick={handleMenuItemClick}>
+              <Link to="/reservation" className="btn btn_primary" onClick={() => { handleMenuItemClick(); window.scrollTo(0, 0); }}>
                 Book A TABLE
               </Link>
               <div className="bar" onClick={() => setNav(true)}>
@@ -105,7 +107,7 @@ function Main() {
             <i className="icofont-close-circled" />
           </span>
           <div className="menu_inner_content">
-            <Link to="/" className="side_logo">
+            <Link to="/" className="side_logo" onClick={() => { handleMenuItemClick(); window.scrollTo(0, 0); }}>
               <img src={logo} alt="image" />
             </Link>
             <ul className="contact_listing">
@@ -130,15 +132,15 @@ function Main() {
               <li>
                 <p className="sub_title">Find us</p>
                 <div className="cnt_block">
-                  <p><Link to="https://www.google.com/maps/place/Delaware+Area+Career+Center+South+Campus/@40.2315079,-83.0396507,18.75z/data=!4m15!1m8!3m7!1s0x8838f05796444f13:0x94db90b3be66c2e6!2s4565+Columbus+Pike,+Delaware,+OH+43015!3b1!8m2!3d40.2317138!4d-83.0390411!16s%2Fg%2F11c5c3mc20!3m5!1s0x8838f057158834c1:0xefcdfe7e59a24f21!8m2!3d40.2316919!4d-83.0390239!16s%2Fm%2F0clw0pk?entry=ttu" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(false)}>
-                  4565 Columbus Pike, <br /><br /> Delaware, OH</Link></p>
+                  <p>                  4565 Columbus Pike, <br /> Delaware, OH
+                  </p>
                   <span>
                     <i className="icofont-location-pin" />
                   </span>
                 </div>
               </li>
             </ul>
-            <Link to="/reservation" className="btn btn_primary">
+            <Link to="/reservation" className="btn btn_primary" onClick={() => { handleMenuItemClick(); window.scrollTo(0, 0); }}>
               book a table
             </Link>
             

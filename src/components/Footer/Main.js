@@ -12,11 +12,8 @@ function Main() {
           <div className="foote_widget contact_info">
             <div className="row py_50">
               <div className="col-md-7 direction_block">
-                <p>
-                <Link to="https://www.google.com/maps/place/Delaware+Area+Career+Center+South+Campus/@40.2315079,-83.0396507,18.75z/data=!4m15!1m8!3m7!1s0x8838f05796444f13:0x94db90b3be66c2e6!2s4565+Columbus+Pike,+Delaware,+OH+43015!3b1!8m2!3d40.2317138!4d-83.0390411!16s%2Fg%2F11c5c3mc20!3m5!1s0x8838f057158834c1:0xefcdfe7e59a24f21!8m2!3d40.2316919!4d-83.0390239!16s%2Fm%2F0clw0pk?entry=ttu" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(false)}>
-                  4565 Columbus Pike, <br />
+                <p>                  4565 Columbus Pike, <br />
                   Delaware, OH <br />
-                  </Link>
                   Booking : <Link to="tel:+88-123-123456">614-525-1000</Link>
                 </p>
               </div>
@@ -25,7 +22,7 @@ function Main() {
                   Monday - Friday : 11AM - 10PM <br />
                   Saturday - Sunday : 10AM - 11PM<br></br>
                 </p>
-                <Link to="/reservation" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(false)}>
+                <Link to="/reservation" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => window.scrollTo(0, 0)}>
                   book a table
                 </Link>
               </div>
@@ -37,18 +34,18 @@ function Main() {
               <div className="col-md-12">
                 <ul className="links d-flex justify-content-center">
                   <li>
-                    <Link to="/">Home</Link>
+                    <Link to="/" onClick={() => {window.scrollTo(0, 0); }}>Home </Link>
                   </li>
 
                   <li>
-                    <Link to="/menulist">Menu </Link>
+                    <Link to="/menulist" onClick={() => {window.scrollTo(0, 0); }}>Menu </Link>
                   </li>
 
                   <li>
-                    <Link to="/about">About us</Link>
+                    <Link to="/about"onClick={() => {window.scrollTo(0, 0); }}>About us</Link>
                   </li>
                   <li>
-                    <Link to="/about">Our chef</Link>
+                    <Link to="/review"onClick={() => {window.scrollTo(0, 0); }}>Reviews</Link>
                   </li>
                 </ul>
               </div>
@@ -57,7 +54,7 @@ function Main() {
           <div className="row">
             <div className="col-md-12 copy_right text-center">
               <p>
-                © 2023 Game Day Grill. All Rights Reserved 
+                © 2024 Game Day Grill. All Rights Reserved 
               </p>
             </div>
           </div>

@@ -68,11 +68,7 @@ function VideoTwo() {
                                 <span className="icon">
                                     <i className="icofont-location-pin" />
                                 </span>
-                                <div className="text">
-                                    <h3>Locate Us</h3>
-                                    <p><Link to="https://www.google.com/maps/place/Delaware+Area+Career+Center+South+Campus/@40.2315079,-83.0396507,18.75z/data=!4m15!1m8!3m7!1s0x8838f05796444f13:0x94db90b3be66c2e6!2s4565+Columbus+Pike,+Delaware,+OH+43015!3b1!8m2!3d40.2317138!4d-83.0390411!16s%2Fg%2F11c5c3mc20!3m5!1s0x8838f057158834c1:0xefcdfe7e59a24f21!8m2!3d40.2316919!4d-83.0390239!16s%2Fm%2F0clw0pk?entry=ttu" className="btn btn_primary mt-3" id="bookingForm_modelTitle" data-toggle="modal" data-target="#bookingForm_model" onClick={() => setytShow(false)}>
-                  4565 Columbus Pike, Delaware, OH</Link></p>
-                                </div>
+                                
                             </li>
                             <li>
                                 <span className="icon">

@@ -32,7 +32,7 @@ function Testimonial() {
                         <h2>customer reviews</h2>
                     </div>
                     <div className="testimonial_wraper" data-aos="fade-in" data-aos-duration={1500} >
-                        <Slider className="" id="testimonial_slider" {...Testslider} arrows={false} autoplay={true} autoplaySpeed={2000} >
+                        <Slider className="" id="testimonial_slider" {...Testslider} arrows={false} autoplay={true} autoplaySpeed={3000} >
                             <div className="item">
                                 <div className="testimonial_inner">
                                     <div className="img">
@@ -142,7 +142,7 @@ function Testimonial() {
                         </Slider>
                     </div>
                     <div className="text-center" data-aos="fade-in" data-aos-duration={1500} >
-                        <Link to="/review" className="btn btn_primary">
+                        <Link to="/review" className="btn btn_primary" onClick={() => {window.scrollTo(0, 0); }}>
                             more testimonials
                         </Link>
                     </div>

@@ -26,7 +26,7 @@ function DiscountSection() {
                                             <span className="new_price">$26.00</span>
                                             <span className="old_price">$52.00</span>
                                         </p>
-                                        <Link to="/MenuList#steaks " className="btn btn_primary">
+                                        <Link to="/MenuList#steaks " className="btn btn_primary" onClick={() => {window.scrollTo(0, 0); }}>
                                             explore more
                                         </Link>
                                     </div>

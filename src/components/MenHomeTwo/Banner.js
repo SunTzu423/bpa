@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import BG1 from '../../assets/images/banner.png'
+import BG1 from '../../assets/images/jorkin.gif'
 
 function Banner() {
     return (
@@ -16,7 +16,7 @@ function Banner() {
                                         <p className="lead">
                                             We Only Serve Real Steaks, The steak you will never forget.{" "}
                                         </p>
-                                        <Link to="/menulist" className="btn btn_primary">
+                                        <Link to="/menulist" className="btn btn_primary" onClick={() => {window.scrollTo(0, 0); }}>
                                             view our full menu
                                         </Link>
                                     </div>

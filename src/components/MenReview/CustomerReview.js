@@ -22,19 +22,19 @@ const reviewData = [
   {
     image: Review01,
     starCount: 5,
-    text: "It made me stop my One Piece addiction. I picked it back up afterwards, but it was a good distraction. ",
+    text: "It made me temporarily break my One Piece addiction. I picked it back up afterward, but it served as a good distraction. ",
     name: "Kameron Carter",
   },
   {
     image: Review05,
     starCount: 5,
-    text: "It was very easy to place a reservation on the website. Their chicken alfredo was the greatest I've ever had in my life. Absolutely will stop by here again with others.",
+    text: "Placing a reservation on the website was very easy. The chicken Alfredo was the best I've ever had in my life. I will definitely stop by here again with others.",
     name: "Nolan Gregson",
   },
   {
     image: Review06,
     starCount: 5,
-    text: "This website is amazing! It is very easy to navigate in, and the design within the website adds a lot to to the feeling of the restaurant.",
+    text: "This website is amazing! It is very easy to navigate, and the design adds a lot to the feeling of the restaurant.",
     name: "Kenneth Adams",
   },
   {
