@@ -15,7 +15,7 @@
     "react-dom": "^18.2.0",
     "react-owl-carousel": "^2.3.3",
     "react-router-dom": "^6.14.2",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^3.0.1",
     "react-scroll": "^1.8.9",
     "react-skrollr": "^1.0.4",
     "react-slick": "^0.29.0",
